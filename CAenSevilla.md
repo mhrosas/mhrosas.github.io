@@ -4,14 +4,10 @@ title: Algebraic Combinatorics at Sevilla
 permalink: /CAenSevilla
 ---
 
-
 # Combinatoria Algebraica en Sevilla
 
 
-Seminario [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
-
-
-Miembros:
+## Miembros:
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/)
 
@@ -19,7 +15,7 @@ Miembros:
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-Algunos antiguos Estudiantes:
+## Antiguos Estudiantes:
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura wrote her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
@@ -43,6 +39,21 @@ Algunos antiguos Estudiantes:
    > members of the group), Luis and Álvaro found a combinatorial proof
    >  of the Graham and Pollak formula for the determinant of the
    > distance matrix of a tree based on the Gessel-Viennot involution.
+
+
+
+
+## Conferences and Workshops:
+- [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
+  > Virtual Seminaire
+
+- [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-
+combinatoire-91)
+  > Salobreña, March 17 - 20, 2024.
+  > Invited Speakers: Petter Brändén and Ira Gessel.
+  
+-[Diagonally symmetric polynomials and applications](https://congreso.us.es/dsym/)
+  >Castro-Urdiales, October 15 - 19, 2007
 
 
 
