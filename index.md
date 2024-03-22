@@ -2,9 +2,6 @@
 
 <img src='mrosas.jpg' width='170' align='right' >
 
- 
-
-> ----------------------
 > 
 > Buenos días/hello/bonjour.
 > I am a professor of mathematics in the Algebra department
