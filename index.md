@@ -9,7 +9,7 @@
 > 
 > I wrote my PhD under the supervision of
 >  [Ira Gessel](https://people.brandeis.edu/~gessel/). 
-> I have also I held postdoctoral and visitor positions at the
+> Afterwards, I held postdoctoral and visitor positions at the
 > Universidad Simón Bolívar, the Laboratoire d’Algèbre, de
 > Combinatoire et d’Informatique Mathématique
 > [LACIM](https://lacim.uqam.ca/en/home/) of the Université du
