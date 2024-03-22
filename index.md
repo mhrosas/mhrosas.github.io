@@ -27,8 +27,10 @@
 >
 > ----------------------
 >
-> En algunas ocasiones, he escrito en español pensando en matemáticos
-> [jóvenes](./divulgacion.md) (y muy jóvenes). 
+> En algunas ocasiones, he escrito algunos artículos de
+> [divulgación](./divulgacion.md)
+>  en español pensando en matemáticos jóvenes (y muy jóvenes). 
+>
 > Estoy particularmente contenta con el
 > [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
 > una colección de retos matemáticos para niños y jóvenes que escribí
