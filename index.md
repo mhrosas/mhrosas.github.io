@@ -1,6 +1,6 @@
 
 
-[Research publications](./publications.md)
+[Publications](./publications.md)
 
 
 
@@ -71,6 +71,7 @@
      > with  Emmanuel Briand,  Peter McNamara, and Rosa Orellana\
      > Dedicated to Ira Gessel\ 
      > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)
+     > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf)
      > [Arxiv](https://arxiv.org/abs/1509.02581)
      
 
