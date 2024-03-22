@@ -3,7 +3,7 @@
 <img src='mrosas.jpg' width='170' align='right' >
 
 > 
-> Buenos días/hello/bonjour.
+> Buenos días, hello, and bonjour. Welcome to my webpage.
 > I am a professor of mathematics in the Algebra department
 > of the    Universidad de Sevilla. I am part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
