@@ -72,23 +72,26 @@
      > Dedicated to Ira Gessel\
      > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)\ 
      > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
-     > [Arxiv](https://arxiv.org/abs/1509.02581)
+     > [ArXiv](https://arxiv.org/abs/1509.02581)
      
 
 1. Rectangular Symmetries for coefficients of symmetric functions,
      > with E. Briand and R. Orellana\
      > Electronic J. of Combinatorics, vol. 22, 3, (2015)\
      > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i3p15)
+     > [ArXiv](https://arxiv.org/abs/1410.8017)
      
 
 1. The stability of the Kronecker product of Schur functions,
      > with Emmanuel Briand and Rosa Orellana\
-     > Journal of Algebra. 331, 11-27, (2011)
+     > Journal of Algebra. 331, 11-27, (2011)\
+     > [ArXiV](https://arxiv.org/abs/0907.4652)
 
 
 1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes
      > with Emmanuel Briand, and Rosa Orellana\
      > Discrete Mathematics and Theoretical Computer Science, (2010)
+     > [ArXiV](https://arxiv.org/abs/0812.0861)
      
 
 1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH 
