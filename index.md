@@ -15,25 +15,26 @@
 1. Partial symmetries of iterated plethysms.
    >with Álvaro Gutiérrez Cáceres\
    >Annals of Combinatorics. Volume 27, issue 3, September (2023)\
-   >[Arxiv](https://arxiv.org/abs/2201.00240)
+   >[AC](https://link.springer.com/article/10.1007/s00026-023-00652-4) and  [Arxiv](https://arxiv.org/abs/2201.00240)
 
 
  1.  Necessary conditions for the positivity of Littlewood-Richardson and plethystic coefficients.
      > with Álvaro Gutiérrez Cáceres\
-     >Comptes Rendus Mathematiques, Volume 361 (2023)\
-     > [Arxiv](https://arxiv.org/abs/2109.11378) [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.468/)
+     > Comptes Rendus Mathematiques, Volume 361 (2023)\
+     > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.468/) and [Arxiv](https://arxiv.org/abs/2109.11378)
      
 
 1. Vector partition functions and Kronecker coefficients
      > with Marni Mishna and Sheila Sundaram\
      > Journal of Physics A 54, no. 20, Paper No. 205204, 29 pp. (2021)\
-     > [Arxiv](https://arxiv.org/abs/1811.10015) [JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/abf45b)
+     >  [JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/abf45b)
+     > and [Arxiv](https://arxiv.org/abs/1811.10015)
      
 
 1. Normally ordered forms of powers of differential operators and their combinatorics 
      > with Emmanuel Briand and Samuel Lopes\
      > Journal of Pure and Applied Algebra. vol. 224(8) article num. 106312, (2020)\
-     > [Arxiv](https://arxiv.org/abs/1811.00857)
+     > [JPAA](https://www.sciencedirect.com/science/article/pii/S0022404920300098) and [Arxiv](https://arxiv.org/abs/1811.00857)
   
    
 
@@ -63,8 +64,8 @@
 1.  Combinatorics on a family of reduced Kronecker coefficients
      > with Laura Colmenarejo\
      > Comptes Rendus Mathématique, Académie des Sciences, Paris, (2015)\
-     > [Arxiv](https://arxiv.org/abs/1506.02829)
      > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.1016/j.crma.2015.07.012/)
+    > [Arxiv](https://arxiv.org/abs/1506.02829)
 
 
 1. Commutation and normal ordering for operators on symmetric functions
