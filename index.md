@@ -4,7 +4,7 @@
 <img src='mrosas.jpg' width='170' >
  
 
-> Buenos días/hello/Bonjour.
+> Buenos días/hello/bonjour.
 > I am a professor of mathematics in the Algebra department
 > of the    Universidad de Sevilla. I am part of the group of  
 > [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
@@ -12,11 +12,9 @@
 > I wrote my PhD under the supervision of
 >  [Ira Gessel](https://people.brandeis.edu/~gessel/).
 > 
-> I have also
-> I held postdoctoral and visitor positions at the Universidad
-> Simón Bolívar, the
->  Laboratoire d’Algèbre, de Combinatoire et
-> d’Informatique Mathématique
+> I have also I held postdoctoral and visitor positions at the
+> Universidad Simón Bolívar, the Laboratoire d’Algèbre, de
+> Combinatoire et d’Informatique Mathématique
 > [LACIM](https://lacim.uqam.ca/en/home/) of the Université du
 >  Québec à Montréal (UQAM) and the Combinatorics group of
 > York University/Fields Institute.
@@ -25,7 +23,9 @@
 >
 >  
 > To learn about my work you can brose my
-> [Publications](./publications.md).
+> [Publications](./publications.md). My main interests are
+> combinatorial representation theory, combinatorial Hopf algebras,
+> and the theory of symmetric functions.
 >
 > On a few occasions, I have
 > written some work for (very)
