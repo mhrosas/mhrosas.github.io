@@ -137,13 +137,15 @@
 
 1. Inequalities between Littlewood-Richardson coefficients, 
      > with François Bergeron, and Riccardo Biagioli\
-     > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 , Pages 567--590, (2006) 
+     > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 (2006)
+     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541) 
 
 
 1. Symmetric functions in noncommuting variables,
      > with Bruce Sagan\ 
      > Transactions of the American Mathematical Society 358, no. 1, 215--232, (2006)\
-     > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/) and [ArXiV](https://arxiv.org/abs/math/0208168) 
+     > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/)
+     > and [ArXiV](https://arxiv.org/abs/math/0208168) 
      
 
 1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions,
