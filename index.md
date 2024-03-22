@@ -29,7 +29,8 @@
 >
 > En algunas ocasiones, he escrito algunos artículos de
 > [divulgación](./divulgacion.md)
->  en español pensando en matemáticos jóvenes (y muy jóvenes).
+>  en español pensando en los jóvenes (y muy jóvenes)
+> matemáticos hispano-parlantes.
 >
 >  
 > Estoy particularmente contenta con el
