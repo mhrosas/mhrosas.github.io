@@ -166,7 +166,8 @@
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes,
     > Journal of Algebraic Combinatorics 14 (2), pp. 153-173, (2001)\
-    > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902) and [ArXiV](https://arxiv.org/abs/math/0001084] 
+    > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)
+    >  and [ArXiV](https://arxiv.org/abs/math/0001084)
 
 
 
