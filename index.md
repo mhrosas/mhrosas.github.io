@@ -2,7 +2,7 @@
 
 [Publicaciones](./publications.md)
 
-[Divulgación](./divulgación.md)
+[Divulgación](./divulgacion.md)
 
 
 
