@@ -5,7 +5,7 @@
 > 
 > Buenos días, hello, and bonjour. Welcome to my webpage.
 > I am a professor of mathematics in the Algebra department
-> of the    Universidad de Sevilla. I am part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
+> of the    Universidad de Sevilla. I am also part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
 > I wrote my PhD under the supervision of
 >  [Ira Gessel](https://people.brandeis.edu/~gessel/). 
