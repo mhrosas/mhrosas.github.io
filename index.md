@@ -9,7 +9,8 @@
 1. All linear symmetries of the tensor multiplicities of SU(3).
     >with Emmanuel Briand and Stefan Trandafir\
     >Journal of Physics A: Mathematical and Theoretical. Vol. 57,1 (2024)\
-    >[Arxiv](https:://arxiv.org/abs/2305.08188) [JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/ad0dc7)
+    >[JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/ad0dc7)
+    >and [Arxiv](https:://arxiv.org/abs/2305.08188) 
 
 
 1. Partial symmetries of iterated plethysms.
@@ -117,7 +118,8 @@
 1. On the $S_n$-module structure of the noncommutative harmonics,
      > with E. Briand and M. Zabrocki\
      > Journal of Combinatorial Theory, Series A. Vol 115, Issue 6, (2008).\
-     > [IdUS](https://idus.us.es/handle/11441/41690)
+     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316507001483)
+     > and [IdUS](https://idus.us.es/handle/11441/41690)
      
 
 1. Invariants and coinvariants of the symmetric group in noncommutative variables
@@ -166,7 +168,7 @@
 1. MacMahon symmetric functions, the partition lattice, and Young tableaux, 
     > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340, (2001)\
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
-    > [IdUS](https://idus.us.es/handle/11441/41678)
+    > and [IdUS](https://idus.us.es/handle/11441/41678)
     
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes,
