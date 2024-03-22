@@ -18,10 +18,10 @@
    >[Arxiv](https://arxiv.org/abs/2201.00240)
 
 
- 1.  Necessary conditions for the positivity of Littlewood-Richardson and plethystic coefficients
+ 1.  Necessary conditions for the positivity of Littlewood-Richardson and plethystic coefficients.
      > with Álvaro Gutiérrez Cáceres\
      >Comptes Rendus Mathematiques, Volume 361 (2023)\
-     > [Arxiv](https://arxiv.org/abs/2109.11378)
+     > [Arxiv](https://arxiv.org/abs/2109.11378) [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.468/)
      
 
 1. Vector partition functions and Kronecker coefficients
