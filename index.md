@@ -9,7 +9,7 @@
 1. All linear symmetries of the tensor multiplicities of SU(3).
     >with Emmanuel Briand and Stefan Trandafir\
     >Journal of Physics A: Mathematical and Theoretical. Vol. 57,1 (2024)\
-    >[Arxiv](https:://arxiv.org/abs/2305.08188)
+    >[Arxiv](https:://arxiv.org/abs/2305.08188) [JoP A](https://iopscience.iop.org/article/10.1088/1751-8121/ad0dc7)
 
 
 1. Partial symmetries of iterated plethysms.
