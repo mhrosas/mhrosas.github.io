@@ -29,7 +29,7 @@
 >
 > On a few occasions, I have
 > written some work in Spanish for (very)
-> [young mathematicians](./divulgacion.md), including children.
+> [young mathematicians](./divulgacion.md).
 >
 > ----------------------
 > 
