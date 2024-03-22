@@ -28,9 +28,8 @@
 > and the theory of symmetric functions.
 >
 > On a few occasions, I have
-> written some work for (very)
-> [young mathematicians](./divulgacion.md), including children,
-> in Spanish.
+> written some work in Spanish for (very)
+> [young mathematicians](./divulgacion.md), including children.
 >
 > ----------------------
 > 
