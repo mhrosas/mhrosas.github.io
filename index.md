@@ -34,12 +34,15 @@
 >  
 > Estoy particularmente contenta con el
 > [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
-> una colección de retos matemáticos para niños y jóvenes que escribí durante el confinamiento de 2020 y con un trabajo sobre
->  los
-> [números de Catalan](https://www.emis.de/journals/BAMV/conten/vol10/catalan.pdf).
-> Es un verdadero honor haber sido parte del primer equipo de
->  profesores de [ECCO](https://ecco2024.combinatoria.co/).
-> Algunos de los trabajos son producto de esta experiencia.
+> una colección de retos matemáticos para niños y jóvenes
+> que escribí durante el confinamiento de 2020, y con un
+> trabajo sobre los
+> [números de Catalan](https://www.emis.de/journals/BAMV/conten/vol10/catalan.pdf) que escribí para estudiantes que
+> del equipo olímpico venezolano. Por otra parte, es
+>  un verdadero honor haber sido parte del primer equipo de
+>  profesores de Encuentro Colombiano de Combinatoria,
+>  [ECCO](https://ecco2024.combinatoria.co/).
+> Algunos de estos trabajos son producto de esta experiencia.
 >
 > ---------------------- 
 > 
