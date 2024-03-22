@@ -29,7 +29,8 @@
   > [Publications](./publications.md). On a few occasions, I have
   > written some work for (very)
   > [young mathematicians](./divulgacion.md), including children.
-  > I am particularly for of el [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
+  > I am particularly fond of
+  > [El Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html).
   > 
 
 
