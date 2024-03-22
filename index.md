@@ -33,6 +33,7 @@
 > [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
 > una colección de retos matemáticos para niños y jóvenes que escribí
 > durante el confinamiento de 2020.
+> 
 > La información sobre mi docencia se encuentra en la enseñanza
 > virtual de la Universidad de Sevilla.
 >
