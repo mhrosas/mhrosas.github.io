@@ -28,17 +28,22 @@ permalink: /CAenSevilla
   >  Adan Cabello in Sevilla.
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
-  > Álvaro's undergraduate senior thesis resulted into two publications
-  > on the study of the plethysm. Atfer Sevilla, Álvaro wrote a Master's
-  >  thesis at the University of Bonn under Catharina Stroppel
-  > and Jacob Matherne. Álvaro is currently pursuing his phd under
-  > Mark Wildon at Bristol.
+  > Álvaro's undergraduate senior thesis yielded two
+  > publications on the study of the plethysm of
+  > symmetric functions. Following his time in
+  >  Sevilla, Álvaro authored a Master's thesis at the
+  > University of Bonn under the supervision of Catharina
+  > Stroppel and Jacob Matherne. Presently, he is pursuing
+  >  his Ph.D. under the guidance of Mark Wildon at
+  > Bristol University.
 
 - Luis Esquivias and Adrian Lillo.
-   > In a working grupo (together with Álvaro and the senior
-   > members of the group), Luis and Álvaro found a combinatorial proof
-   >  of the Graham and Pollak formula for the determinant of the
-   > distance matrix of a tree based on the Gessel-Viennot involution.
+   > In a working group (together with Álvaro and the senior
+   > members of the group), Luis and Álvaro, at the time
+   >  undergraduate students, found a combinatorial proof of
+   > the Graham and Pollak formula for the determinant of the
+   > distance matrix of a tree based on the Gessel-Viennot
+   > involution.
 
 
 
