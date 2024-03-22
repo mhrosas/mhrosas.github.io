@@ -62,16 +62,16 @@
 
 1.  Combinatorics on a family of reduced Kronecker coefficients
      > with Laura Colmenarejo\
-     > Comptes Rendus Mathématique, Académie des Sciences, Paris, 353, pp. 865-869, (2015)
+     > Comptes Rendus Mathématique, Académie des Sciences, Paris, (2015)\
      > [Arxiv](https://arxiv.org/abs/1506.02829)
      > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.1016/j.crma.2015.07.012/)
 
 
 1. Commutation and normal ordering for operators on symmetric functions
-     > with  Emmanuel Briand,  Peter McNamara, and Rosa Orellana\
-     > Dedicated to Ira Gessel\ 
-     > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)
-     > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf)
+     > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana\
+     > Dedicated to Ira Gessel \ 
+     > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)\ 
+     > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
      > [Arxiv](https://arxiv.org/abs/1509.02581)
      
 
