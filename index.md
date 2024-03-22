@@ -40,6 +40,7 @@
 1.  Schur generating functions and the asymptotics of structural constants from combinatorial representation theory
      > with Emmanuel Briand\
      > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568, (2020)
+     > [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)
      
 
 1.  The 144 symmetries of the Littlewood-Richardson coefficients of $SL_3$,
