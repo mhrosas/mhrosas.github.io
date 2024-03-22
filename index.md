@@ -90,7 +90,34 @@
      > with Emmanuel Briand, Rosa Orellana\
      > Computational Complexity, Volume 18. 4, (2009).
      > [Arxiv](arXiv:0810.3163)
+     
+
+1. Milne's volume function and vector symmetric polynomials
+     > with Emmanuel Briand\
+     > Journal of Symbolic Computation, Volume 44, Issue 5, Pages 583-590 (2009)
+     
+
+1. The defining ideals of conjugacy classes of nilpotent matrices and a conjecture of Weyman, 
+     > with Riccardo Biagioli and Sara Faridi, 
+     > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)     
 
 
+1. On the $S_n$-module structure of the noncommutative harmonics,
+     > with E. Briand and M. Zabrocki,
+     > Journal of Combinatorial Theory, Series A. Vol 115, Issue 6, Pages 1077-1085, (2008).
+     
 
+1. Invariants and coinvariants of the symmetric group in noncommutative variables
+     > with  Nantel Bergeron,  Christophe Reutenauer and Mike Zabrocki,
+     > Canadian Journal of Mathematics,  266--296, (2008)
+   
+
+1. Resolutions of De Concini-Procesi ideals indexed by hooks,
+     > with Riccardo Biagioli and Sara Faridi,
+     > Communications in Algebra, 35 , no. 12, 3875--3891, (2007)
+     
+
+1. Grothedieck bialgebras, partition lattices, and symmetric functions in noncommutative variables
+     > with Nantel Bergeron,  Christophe Hohlweg, and Mike Zabrocki,
+     > Electronic J. of Combinatorics 13, no. 1, 19 pp, (2006) 
 
