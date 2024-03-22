@@ -18,8 +18,8 @@ permalink: /CAenSevilla
 ## Antiguos Estudiantes y estudiantes visitantes:
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
-  > Laura wrote her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
-  > Laura currently hold a tenure track position at North Carolina State Univesity.
+  > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
+  > Laura currently hold a tenure track position at North Carolina State Univesity, and a rising star in the area of Algebraic Combinatorics.
   
 - [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir)
   > Stefan was a frecuent visitor to the group during his PhD at
