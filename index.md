@@ -122,11 +122,13 @@
 1. Invariants and coinvariants of the symmetric group in noncommutative variables
      > with  Nantel Bergeron,  Christophe Reutenauer and Mike Zabrocki\
      > Canadian Journal of Mathematics,  266--296, (2008)
+     > [CJM](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/invariants-and-coinvariants-of-the-symmetric-group-in-noncommuting-variables/B5DB3E61A9C8AAF9D56420336B45D674) and [ArXiV](https://arxiv.org/abs/math/0502082)
    
 
 1. Resolutions of De Concini-Procesi ideals indexed by hooks,
      > with Riccardo Biagioli and Sara Faridi\
      > Communications in Algebra, 35 , no. 12, 3875--3891, (2007)
+     > [CA](https://www.tandfonline.com/doi/abs/10.1080/00927870701511954)  and [ArXiV](https://arxiv.org/abs/math/0507611)
      
 
 1. Grothedieck bialgebras, partition lattices, and symmetric functions in noncommutative variables
@@ -137,7 +139,7 @@
 
 1. Inequalities between Littlewood-Richardson coefficients, 
      > with François Bergeron, and Riccardo Biagioli\
-     > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 (2006)
+     > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 (2006)\
      > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541) 
 
 
@@ -161,7 +163,7 @@
     
 
 1. MacMahon symmetric functions, the partition lattice, and Young tableaux, 
-    > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340, (2001)
+    > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340, (2001)\
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
     > [IdUS](https://idus.us.es/handle/11441/41678)
     
