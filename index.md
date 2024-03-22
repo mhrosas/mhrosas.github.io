@@ -110,7 +110,7 @@
 1. The defining ideals of conjugacy classes of nilpotent matrices and a conjecture of Weyman, 
      > with Riccardo Biagioli and Sara Faridi\ 
      > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)
-     > [ArXiV](https://arxiv.org/abs/0803.0658)
+     > [IMRN](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnn117/713101?redirectedFrom=fulltext) and  [ArXiV](https://arxiv.org/abs/0803.0658)
 
 
 1. On the $S_n$-module structure of the noncommutative harmonics,
@@ -127,7 +127,7 @@
 
 1. Resolutions of De Concini-Procesi ideals indexed by hooks,
      > with Riccardo Biagioli and Sara Faridi\
-     > Communications in Algebra, 35 , no. 12, 3875--3891, (2007)
+     > Communications in Algebra, 35 , no. 12, 3875--3891, (2007)\
      > [CA](https://www.tandfonline.com/doi/abs/10.1080/00927870701511954)  and [ArXiV](https://arxiv.org/abs/math/0507611)
      
 
