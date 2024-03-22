@@ -8,8 +8,7 @@ permalink: /CAenSevilla
 # Combinatoria Algebraica en Sevilla
 
 
-Seminario [Algebraic Combinatorics in Sevilla]
-(https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
+Seminario [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
 
 
 Miembros:
@@ -20,7 +19,7 @@ Miembros:
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-Antiguos Estudiantes:
+Antiguos antiguos Estudiantes:
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura wrote her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
@@ -33,7 +32,17 @@ Antiguos Estudiantes:
   >  Adan Cabello in Sevilla.
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
-  > Álvaro's undergraduate senior thesis resulted into two publications.
+  > Álvaro's undergraduate senior thesis resulted into two publications
+  > on the study of the plethysm. Atfer Sevilla he did a Master's
+  >  thesis at the University of Bonn under Catharina Stroppel
+  > and Jacob Matherne, and is currently pursuing his phd under
+  > Mark Wildon at Briston.
+
+- Luis Esquivias and Adrian Lillo.
+   > In a working grupo (together with Álvaro and the senior
+   > members of the group), Luis and Álvaro found a combinatorial proof
+   >  of the Graham and Pollak formula for the determinant of the
+   > distance matrix of a tree based on the Gessel-Viennot involution.
 
 
 
