@@ -1,5 +1,4 @@
 
-<H1> Mercedes Rosas </H1> 
 
 <img src='mrosas.jpg' width='170' align='right' >
 
