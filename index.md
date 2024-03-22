@@ -2,31 +2,10 @@
 
 [publications](./publications.md)
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/">
-          Mercedes Rosas
-          
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">About</a>
-            </li><li class="masthead__menu-item">
-              <a href="/eventstalks/">Events and talks</a>
-            </li><li class="masthead__menu-item">
-              <a href="/publications/">Publications</a>
-            </li><li class="masthead__menu-item">
-              <a href="/teaching/">Teaching</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol> 
