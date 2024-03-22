@@ -18,11 +18,11 @@
 > Almost two decades ago, I came to Sevilla with a Ramón
 > and Cajal fellowship. I am still amazed at how beautiful this city is.
 >
->  
-> To learn about my work you can brose my
-> [Publications](./publications.md). My main interests are
+>   My main interests are
 > combinatorial representation theory, combinatorial Hopf algebras,
 > and the theory of symmetric functions.
+> To learn about my work you can brose my
+> [Publications](./publications.md).
 >
 > On a few occasions, I have
 > written some work in Spanish for (very)
