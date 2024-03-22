@@ -29,8 +29,10 @@
   > [Publications](./publications.md). On a few occasions, I have
   > written some work for (very)
   > [young mathematicians](./divulgacion.md), including children.
-  > I am particularly fond of
-  > [El Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html).
+  > 
+  > Estoy particularmente contenta con 
+  > [El Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html) una colección de problemas de matemáticas
+  > que escribí durante el confinamiento de 2020.
   >
   > La información sobre mi docencia se encuentra en la enseñanza
   > virtual de la Universidad de Sevilla 
