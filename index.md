@@ -69,7 +69,7 @@
 
 1. Commutation and normal ordering for operators on symmetric functions
      > with  Emmanuel Briand,  Peter McNamara, and Rosa Orellana\
-     > Dedicated to Ira Gessel. arXiv:1509.0258 (2015)\ 
+     > Dedicated to Ira Gessel\ 
      > Seminaire Lotharingien de Combinatoire 80, Article B80d, (2019)
      > [Arxiv](https://arxiv.org/abs/1509.02581)
      
