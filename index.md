@@ -29,12 +29,19 @@
 >
 > En algunas ocasiones, he escrito algunos artículos de
 > [divulgación](./divulgacion.md)
->  en español pensando en matemáticos jóvenes (y muy jóvenes). 
+>  en español pensando en matemáticos jóvenes (y muy jóvenes).
 >
+>  
 > Estoy particularmente contenta con el
 > [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
-> una colección de retos matemáticos para niños y jóvenes que escribí
-> durante el confinamiento de 2020.
+> una colección de retos matemáticos para niños y jóvenes que escribí durante el confinamiento de 2020 y con un trabajo sobre
+>  los
+> [números de Catalan](https://www.emis.de/journals/BAMV/conten/vol10/catalan.pdf).
+> Es un verdadero honor haber sido parte del primer equipo de
+>  profesores de [ECCO](https://ecco2024.combinatoria.co/).
+> Algunos de los trabajos son producto de esta experiencia.
+>
+> ---------------------- 
 > 
 > La información sobre mi docencia se encuentra en la enseñanza
 > virtual de la Universidad de Sevilla.
