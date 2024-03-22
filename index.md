@@ -142,13 +142,13 @@
 
 1. Symmetric functions in noncommuting variables,
      > with Bruce Sagan\ 
-     > Transactions of the American Mathematical Society 358, no. 1, 215--232, (2006)
+     > Transactions of the American Mathematical Society 358, no. 1, 215--232, (2006)\
      > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/) and [ArXiV](https://arxiv.org/abs/math/0208168) 
      
 
 1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions,
     > with Gian-Carlo Rota and Joel Stein\
-    > Annals of combinatorics, 6, pp. 195-207, (2003)
+    > Annals of combinatorics, 6, pp. 195-207, (2003)\
     > [IdUS](https://idus.us.es/handle/11441/46818)
     
 
