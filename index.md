@@ -27,7 +27,7 @@
 1. Vector partition functions and Kronecker coefficients
      > with Marni Mishna and Sheila Sundaram\
      > Journal of Physics A 54, no. 20, Paper No. 205204, 29 pp. (2021)\
-     > [Arxiv](https://arxiv.org/abs/1811.10015) [JoP-A}(https://iopscience.iop.org/article/10.1088/1751-8121/abf45b)
+     > [Arxiv](https://arxiv.org/abs/1811.10015) [JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/abf45b)
      
 
 1. Normally ordered forms of powers of differential operators and their combinatorics 
