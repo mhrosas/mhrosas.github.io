@@ -90,20 +90,20 @@
 
 1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes
      > with Emmanuel Briand, and Rosa Orellana\
-     > Discrete Mathematics and Theoretical Computer Science, (2010)
+     > Discrete Mathematics and Theoretical Computer Science, (2010)\
      > [ArXiV](https://arxiv.org/abs/0812.0861)
      
 
 1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH 
      > with an appendix by professor Ketan Mulmuley\
      > with Emmanuel Briand, Rosa Orellana\
-     > Computational Complexity, Volume 18. 4, (2009).
+     > Computational Complexity, Volume 18. 4, (2009).\
      > [Arxiv](arXiv:0810.3163)
      
 
 1. Milne's volume function and vector symmetric polynomials
      > with Emmanuel Briand\
-     > Journal of Symbolic Computation, Volume 44, Issue 5, Pages 583-590 (2009)
+     > Journal of Symbolic Computation, Volume 44, Issue 5, Pages 583-590 (2009)\
      > [IdUS](https://idus.us.es/handle/11441/41692)
      
 
@@ -121,7 +121,7 @@
 
 1. Invariants and coinvariants of the symmetric group in noncommutative variables
      > with  Nantel Bergeron,  Christophe Reutenauer and Mike Zabrocki\
-     > Canadian Journal of Mathematics,  266--296, (2008)
+     > Canadian Journal of Mathematics,  266--296, (2008)\
      > [CJM](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/invariants-and-coinvariants-of-the-symmetric-group-in-noncommuting-variables/B5DB3E61A9C8AAF9D56420336B45D674) and [ArXiV](https://arxiv.org/abs/math/0502082)
    
 
