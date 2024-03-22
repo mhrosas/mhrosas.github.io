@@ -3,7 +3,7 @@
 <img src='mrosas.jpg' width='170' align='right' >
 
 > 
-> Buenos días, hello, and bonjour. Welcome to my webpage.
+> Buenos días, welcome to my webpage.
 > I am a professor of mathematics in the Algebra department
 > of the    Universidad de Sevilla. I am also part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
@@ -20,12 +20,12 @@
 >
 >   My main interests are
 > combinatorial representation theory, combinatorial Hopf algebras,
-> and the theory of symmetric functions.
-> To learn about my work you can brose my
+> and the theory of symmetric functions. f you're interested in
+>  delving deeper into my research, feel free to explore my
 > [Publications](./publications.md).
 >
 > On a few occasions, I have
-> written some work in Spanish for (very)
+> written some expository work in Spanish for young and very
 > [young mathematicians](./divulgacion.md).
 >
 > ----------------------
