@@ -30,8 +30,7 @@
 > En algunas ocasiones, he escrito en español pensando en matemáticos
 > [jóvenes](./divulgacion.md) (y muy jóvenes). 
 > Estoy particularmente contenta con el
-> [Alfil Matemático](https://personal.us.es/mrosas/    elalfilmatematico/index.html)
-> una colección de problemas de matemáticas
+> [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
 > una colección de retos matemáticos para niños y jóvenes que escribí
 > durante el confinamiento de 2020.
 > La información sobre mi docencia se encuentra en la enseñanza
