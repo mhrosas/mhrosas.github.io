@@ -39,7 +39,7 @@
 
 1.  Schur generating functions and the asymptotics of structural constants from combinatorial representation theory
      > with Emmanuel Briand\
-     > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568, (2020)
+     > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568, (2020)\
      > [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)
      
 
@@ -64,6 +64,7 @@
      > with Laura Colmenarejo\
      > Comptes Rendus Mathématique, Académie des Sciences, Paris, 353, pp. 865-869, (2015)
      > [Arxiv](https://arxiv.org/abs/1506.02829)
+     > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.1016/j.crma.2015.07.012/)
 
 
 1. Commutation and normal ordering for operators on symmetric functions
