@@ -4,7 +4,7 @@
 <img src='mrosas.jpg' width='170' >
  
 
-  > Buenos días/hello/Bon jour.
+  > Buenos días/hello/Bonjour.
   > I am a professor of mathematics in the Algebra department
   > of the    Universidad de Sevilla. Soy parte del equipo de 
   > [Combinatoria Algebraica en Sevilla](./CAenSevilla.md).
