@@ -19,7 +19,7 @@ Miembros:
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-Antiguos antiguos Estudiantes:
+Algunos antiguos Estudiantes:
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura wrote her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
