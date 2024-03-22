@@ -60,24 +60,36 @@
      
 
 1.  Combinatorics on a family of reduced Kronecker coefficients
-     > with Laura Colmenarejo,
+     > with Laura Colmenarejo\
      > Comptes Rendus Mathématique, Académie des Sciences, Paris, 353, pp. 865-869, (2015)
 
 
 1. Commutation and normal ordering for operators on symmetric functions
-     > with  Emmanuel Briand,  Peter McNamara, and Rosa Orellana,
-     > Dedicated to Ira Gessel. arXiv:1509.0258 (2015). 
+     > with  Emmanuel Briand,  Peter McNamara, and Rosa Orellana\
+     > Dedicated to Ira Gessel. arXiv:1509.0258 (2015)\ 
      > Seminaire Lotharingien de Combinatoire 80, Article B80d, (2019)
      
 
 1. Rectangular Symmetries for coefficients of symmetric functions,
-     > with E. Briand and R. Orellana,
+     > with E. Briand and R. Orellana\
      > Electronic J. of Combinatorics, vol. 22, 3, (2015)
      
 
 1. The stability of the Kronecker product of Schur functions,
-     > with Emmanuel Briand and Rosa Orellana,
+     > with Emmanuel Briand and Rosa Orellana\
      > Journal of Algebra. 331, 11-27, (2011)
+
+
+1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes
+     > with Emmanuel Briand, and Rosa Orellana\
+     > Discrete Mathematics and Theoretical Computer Science, (2010)
+     
+
+1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH 
+     > with an appendix by professor Ketan Mulmuley\
+     > with Emmanuel Briand, Rosa Orellana\
+     > Computational Complexity, Volume 18. 4, (2009).
+     > [Arxiv](arXiv:0810.3163)
 
 
 
