@@ -20,9 +20,8 @@
   > [LACIM](https://lacim.uqam.ca/en/home/) of the Université du
   >  Québec à Montréal (UQAM) and the Combinatorics group of
   > York University/Fields Institute.
-  >
   > Almost two decades ago, I came to Sevilla with a Ramón
-  > and Cajal fellowship.
+  > and Cajal fellowship. 
   >
   >  
   > To learn about my work you can brose my
