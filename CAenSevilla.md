@@ -1,3 +1,10 @@
+---
+layout: page
+title: Algebraic Combinatorics at Sevilla
+permalink: /CAenSevilla
+---
+
+
 # Combinatoria Algebraica en Sevilla
 
 
