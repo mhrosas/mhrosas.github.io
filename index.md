@@ -24,14 +24,13 @@
 >  delving deeper into my research, feel free to explore my
 > [Publications](./publications.md).
 >
-> On a few occasions, I have
-> written some expository work in Spanish for young and very
-> [young mathematicians](./divulgacion.md).
 >
 > ----------------------
-> 
-> Estoy particularmente contenta con 
-> [El Alfil Matemático](https://personal.us.es/mrosas/      elalfilmatematico/index.html)
+>
+> En algunas ocasiones, he escrito en español pensando en matemáticos
+> [jóvenes](./divulgacion.md) (y muy jóvenes). 
+> Estoy particularmente contenta con el
+> [Alfil Matemático](https://personal.us.es/mrosas/    elalfilmatematico/index.html)
 > una colección de problemas de matemáticas
 > una colección de retos matemáticos para niños y jóvenes que escribí
 > durante el confinamiento de 2020.
