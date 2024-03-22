@@ -98,26 +98,65 @@
      
 
 1. The defining ideals of conjugacy classes of nilpotent matrices and a conjecture of Weyman, 
-     > with Riccardo Biagioli and Sara Faridi, 
+     > with Riccardo Biagioli and Sara Faridi\ 
      > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)     
 
 
 1. On the $S_n$-module structure of the noncommutative harmonics,
-     > with E. Briand and M. Zabrocki,
+     > with E. Briand and M. Zabrocki\
      > Journal of Combinatorial Theory, Series A. Vol 115, Issue 6, Pages 1077-1085, (2008).
      
 
 1. Invariants and coinvariants of the symmetric group in noncommutative variables
-     > with  Nantel Bergeron,  Christophe Reutenauer and Mike Zabrocki,
+     > with  Nantel Bergeron,  Christophe Reutenauer and Mike Zabrocki\
      > Canadian Journal of Mathematics,  266--296, (2008)
    
 
 1. Resolutions of De Concini-Procesi ideals indexed by hooks,
-     > with Riccardo Biagioli and Sara Faridi,
+     > with Riccardo Biagioli and Sara Faridi\
      > Communications in Algebra, 35 , no. 12, 3875--3891, (2007)
      
 
 1. Grothedieck bialgebras, partition lattices, and symmetric functions in noncommutative variables
-     > with Nantel Bergeron,  Christophe Hohlweg, and Mike Zabrocki,
+     > with Nantel Bergeron,  Christophe Hohlweg, and Mike Zabrocki\
      > Electronic J. of Combinatorics 13, no. 1, 19 pp, (2006) 
+
+
+1. Inequalities between Littlewood-Richardson coefficients, 
+     > with François Bergeron, and Riccardo Biagioli\
+     > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 , Pages 567--590, (2006) 
+
+
+1. Symmetric functions in noncommuting variables,
+     > with Bruce Sagan\ 
+     > Transactions of the American Mathematical Society 358, no. 1, 215--232, (2006)
+     
+
+1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions,
+    > with Gian-Carlo Rota and Joel Stein\
+    > Annals of combinatorics, 6, pp. 195-207, (2003)
+    
+
+1. Specializations of MacMahon symmetric functions and the polynomial algebra, 
+    > Discrete Mathematics, 246 (1-3) No. 2, pp. 285-293, (2002)
+    
+
+1. MacMahon symmetric functions, the partition lattice, and Young tableaux, 
+    > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340, (2001)
+    
+
+1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes,
+    > Journal of Algebraic Combinatorics 14 (2), pp. 153-173, (2001) 
+
+
+
+
+
+
+
+
+
+
+
+
 
