@@ -104,16 +104,19 @@
 1. Milne's volume function and vector symmetric polynomials
      > with Emmanuel Briand\
      > Journal of Symbolic Computation, Volume 44, Issue 5, Pages 583-590 (2009)
+     > [IdUS](https://idus.us.es/handle/11441/41692)
      
 
 1. The defining ideals of conjugacy classes of nilpotent matrices and a conjecture of Weyman, 
      > with Riccardo Biagioli and Sara Faridi\ 
-     > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)     
+     > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)
+     > [ArXiV](https://arxiv.org/abs/0803.0658)
 
 
 1. On the $S_n$-module structure of the noncommutative harmonics,
      > with E. Briand and M. Zabrocki\
-     > Journal of Combinatorial Theory, Series A. Vol 115, Issue 6, Pages 1077-1085, (2008).
+     > Journal of Combinatorial Theory, Series A. Vol 115, Issue 6, (2008).\
+     > [IdUS](https://idus.us.es/handle/11441/41690)
      
 
 1. Invariants and coinvariants of the symmetric group in noncommutative variables
@@ -128,7 +131,8 @@
 
 1. Grothedieck bialgebras, partition lattices, and symmetric functions in noncommutative variables
      > with Nantel Bergeron,  Christophe Hohlweg, and Mike Zabrocki\
-     > Electronic J. of Combinatorics 13, no. 1, 19 pp, (2006) 
+     > Electronic J. of Combinatorics 13, no. 1, 19 pp, (2006) \
+     > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v13i1r75) and  [IdUS](https://idus.us.es/handle/11441/41182)
 
 
 1. Inequalities between Littlewood-Richardson coefficients, 
@@ -139,23 +143,30 @@
 1. Symmetric functions in noncommuting variables,
      > with Bruce Sagan\ 
      > Transactions of the American Mathematical Society 358, no. 1, 215--232, (2006)
+     > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/) and [ArXiV](https://arxiv.org/abs/math/0208168) 
      
 
 1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions,
     > with Gian-Carlo Rota and Joel Stein\
     > Annals of combinatorics, 6, pp. 195-207, (2003)
+    > [IdUS](https://idus.us.es/handle/11441/46818)
     
 
 1. Specializations of MacMahon symmetric functions and the polynomial algebra, 
-    > Discrete Mathematics, 246 (1-3) No. 2, pp. 285-293, (2002)
+    > Discrete Mathematics, 246 (1-3) No. 2, pp. 285-293, (2002)\
+    > [DM](https://www.sciencedirect.com/science/article/pii/S0012365X01002631)
+    > and [IdUS](https://idus.us.es/handle/11441/41678)
     
 
 1. MacMahon symmetric functions, the partition lattice, and Young tableaux, 
     > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340, (2001)
+    > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
+    > [IdUS](https://idus.us.es/handle/11441/41678)
     
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes,
-    > Journal of Algebraic Combinatorics 14 (2), pp. 153-173, (2001) 
+    > Journal of Algebraic Combinatorics 14 (2), pp. 153-173, (2001)\\
+    > [ArXiV](https://arxiv.org/abs/math/0001084] 
 
 
 
