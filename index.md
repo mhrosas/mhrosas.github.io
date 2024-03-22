@@ -9,8 +9,7 @@
 > of the    Universidad de Sevilla. I am part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
 > I wrote my PhD under the supervision of
->  [Ira Gessel](https://people.brandeis.edu/~gessel/).
-> 
+>  [Ira Gessel](https://people.brandeis.edu/~gessel/). 
 > I have also I held postdoctoral and visitor positions at the
 > Universidad Simón Bolívar, the Laboratoire d’Algèbre, de
 > Combinatoire et d’Informatique Mathématique
@@ -28,7 +27,8 @@
 >
 > On a few occasions, I have
 > written some work for (very)
-> [young mathematicians](./divulgacion.md), including children.
+> [young mathematicians](./divulgacion.md), including children,
+> in Spanish.
 > 
 > Estoy particularmente contenta con 
 > [El Alfil Matemático](https://personal.us.es/mrosas/      elalfilmatematico/index.html)
