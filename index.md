@@ -1,3 +1,3 @@
 **Welcome!!!!!**
 
-[publications](publications)
+[publications](publications.md)
