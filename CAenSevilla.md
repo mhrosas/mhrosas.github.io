@@ -15,7 +15,7 @@ permalink: /CAenSevilla
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-## Antiguos Estudiantes:
+## Antiguos Estudiantes y estudiantes visitantes:
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura wrote her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
