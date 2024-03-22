@@ -1,8 +1,8 @@
 
 # Mercedes Rosas <div align="center"> 
-<div align='center'>
+ 
 <img src='mrosas.jpg' width='170' >
-</div>
+ 
 
   > Buenos días/hello/Bon jour.
   > I am a professor of mathematics in the Algebra department
@@ -26,9 +26,10 @@
   >
   >  
   > To learn about my work you can brose my
-  > [Publications](./publications.md) On a few occasions, I have
+  > [Publications](./publications.md). On a few occasions, I have
   > written some work for (very)
   > [young mathematicians](./divulgacion.md), including children.
+  > I am particularly for of el [Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html)
   > 
 
 
