@@ -47,8 +47,7 @@ permalink: /CAenSevilla
 - [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
    > Virtual Seminaire
 
-- [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-
-combinatoire-91)
+- [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91)
    > Salobreña, March 17 - 20, 2024.
    > Invited Speakers: Petter Brändén and Ira Gessel.
   
