@@ -1,5 +1,5 @@
 
-# Mercedes Rosas <div align="center"> 
+# Mercedes Rosas  
  
 <img src='mrosas.jpg' width='170' >
  
