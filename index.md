@@ -25,4 +25,4 @@
 * All linear symmetries of the tensor multiplicities of SU(3)
     >with Emmanuel Briand and Stefan Trandafir
     >Journal of Physics A: Mathematical and Theoretical. Vol. 57,1 (2024)
-    >https://arxiv.org/abs/2305.08188</li>
+    >[Arxiv](https:://arxiv.org/abs/2305.08188
