@@ -29,9 +29,9 @@ permalink: /CAenSevilla
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
   > Álvaro's undergraduate senior thesis resulted into two publications
-  > on the study of the plethysm. Atfer Sevilla he did a Master's
+  > on the study of the plethysm. Atfer Sevilla, Álvaro wrote a Master's
   >  thesis at the University of Bonn under Catharina Stroppel
-  > and Jacob Matherne, and is currently pursuing his phd under
+  > and Jacob Matherne. Álvaro is currently pursuing his phd under
   > Mark Wildon at Briston.
 
 - Luis Esquivias and Adrian Lillo.
