@@ -16,7 +16,7 @@
 >  Québec à Montréal (UQAM) and the Toronto Combinatorics group at
 > York University/Fields Institute.
 > Almost two decades ago, I came to Sevilla with a Ramón
-> and Cajal fellowship. 
+> and Cajal fellowship. I am still amazed at how beautiful this city is.
 >
 >  
 > To learn about my work you can brose my
