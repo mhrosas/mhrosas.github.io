@@ -31,7 +31,9 @@
   > [young mathematicians](./divulgacion.md), including children.
   > I am particularly fond of
   > [El Alfil Matemático](https://personal.us.es/mrosas/elalfilmatematico/index.html).
-  > 
+  >
+  > La información sobre mi docencia se encuentra en la enseñanza
+  > virtual de la Universidad de Sevilla 
 
 
 
