@@ -32,7 +32,7 @@ permalink: /CAenSevilla
   > on the study of the plethysm. Atfer Sevilla, Álvaro wrote a Master's
   >  thesis at the University of Bonn under Catharina Stroppel
   > and Jacob Matherne. Álvaro is currently pursuing his phd under
-  > Mark Wildon at Briston.
+  > Mark Wildon at Bristol.
 
 - Luis Esquivias and Adrian Lillo.
    > In a working grupo (together with Álvaro and the senior
