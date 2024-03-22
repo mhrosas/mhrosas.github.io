@@ -45,15 +45,15 @@ permalink: /CAenSevilla
 
 ## Conferences and Workshops:
 - [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
-  > Virtual Seminaire
+   > Virtual Seminaire
 
 - [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-
 combinatoire-91)
-  > Salobreña, March 17 - 20, 2024.
-  > Invited Speakers: Petter Brändén and Ira Gessel.
+   > Salobreña, March 17 - 20, 2024.
+   > Invited Speakers: Petter Brändén and Ira Gessel.
   
 - [Diagonally symmetric polynomials and applications](https://congreso.us.es/dsym/)
-  >Castro-Urdiales, October 15 - 19, 2007
+   >Castro-Urdiales, October 15 - 19, 2007
 
 
 
