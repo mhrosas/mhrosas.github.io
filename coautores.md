@@ -6,7 +6,7 @@ permalink: /coautores
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
+|<img width="160"   src="Federico.jpg"> |  <img width="160"   src="Riccardo.jpg"> | <img width="160"   src="Lyonell.jpg"> |
 | Federico Ardila | Riccardo Biagioli | Lyonell Boulton |
 |<img width="160"   src="mrosas.jpg">   | <img width="160"   src="mrosas.jpg"> |<img width="160"  src="mrosas.jpg"> |
 | Emmanuel Briand | François Bergeron | Nantel Bergeron |
