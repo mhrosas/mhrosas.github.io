@@ -65,12 +65,11 @@ permalink: /CAenSevilla
    > Salobreña, March 17 - 20, 2024.
    > Invited Speakers: Petter Brändén and Ira Gessel.
   
+- [School and Workshop "Mathematical fundations of quantum information"](https://congreso.us.es/enredo2009/Welcome.html)
+   >Sevilla, Spain, 23-27 november 2009. 
+
 - [Diagonally symmetric polynomials and applications](https://congreso.us.es/dsym/)
    >Castro-Urdiales, October 15 - 19, 2007
-
-
-
-
 
 
 
