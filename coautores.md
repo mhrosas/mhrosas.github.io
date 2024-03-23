@@ -12,7 +12,7 @@ permalink: /coautores
 | Emmanuel Briand | François Bergeron | Nantel Bergeron |
 |<img width="160"  src="laura.jpg"> |<img width="160"   src="luis.jpg">|<img width="160"   src="sara.jpg"> |
 | Laura Colmenarejo | Luis Esquivias | Sara Faridi | 
-|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+|<img width="160"  src="ira.jpg"> |<img width="160"   src="alvaro.jpg">|<img width="160"   src="adrian.jpg"> |
 | Ira Gessel | Álvaro Gutierrez | Adrian Lillo | 
 |<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
 | Emerson León | Samuel Lopes | Marni Mishna | 
