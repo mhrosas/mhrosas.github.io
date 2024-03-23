@@ -25,6 +25,13 @@
 > [Publications](./publications.md).
 >
 >
+>
+> A big part of doing mathematics is learning from your
+>  [collaborators](./collaborators.md). I have had the
+>  pleasure of writing with
+> a dream-team of mathematicians 
+> 
+>
 > ----------------------
 >
 > En algunas ocasiones, he escrito algunos artículos de
