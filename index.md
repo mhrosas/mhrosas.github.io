@@ -44,7 +44,7 @@
 > Por otra parte, es
 >  un verdadero honor haber sido parte del primer equipo de
 >  profesores de Encuentro Colombiano de Combinatoria, en 2003,
->  [ECCO](https://ecco2024.combinatoria.co/).
+>  [ECCO](https://fardila.com/SFSUColombia/ecco.html).
 > Varios de estos proyectos son el resultado directo de
 > esta enriquecedora experiencia.
 >
