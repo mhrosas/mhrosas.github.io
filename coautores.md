@@ -14,7 +14,7 @@ permalink: /coautores
 | Laura Colmenarejo | Luis Esquivias | Sara Faridi | 
 |<img width="160"  src="ira.jpg"> |<img width="160"   src="alvaro.jpg">|<img width="160"   src="adrian.jpg"> |
 | Ira Gessel | Álvaro Gutierrez | Adrian Lillo | 
-|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+|<img width="160"  src="emerson.jpg"> |<img width="160"   src="samuel.jpg">|<img width="160"   src="marni.jpg"> |
 | Emerson León | Samuel Lopes | Marni Mishna | 
 |<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
 | Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
