@@ -4,7 +4,7 @@
 
 > 
 > Buenos días, welcome to my webpage.
-> I am a professor of mathematics in the Algebra department
+> I am Mercedes Rosas, professor of mathematics in the Algebra department
 > of the    Universidad de Sevilla. I am also part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
 > I wrote my PhD under the supervision of
@@ -20,7 +20,7 @@
 >
 >   My main interests are
 > combinatorial representation theory, combinatorial Hopf algebras,
-> and the theory of symmetric functions. f you're interested in
+> and the theory of symmetric functions. If you're interested in
 >  delving deeper into my research, feel free to explore my
 > [Publications](./publications.md).
 >
@@ -43,7 +43,7 @@
 > los estudiantes del equipo olímpico venezolano.
 > Por otra parte, es
 >  un verdadero honor haber sido parte del primer equipo de
->  profesores de Encuentro Colombiano de Combinatoria,
+>  profesores de Encuentro Colombiano de Combinatoria, en 2003,
 >  [ECCO](https://ecco2024.combinatoria.co/).
 > Varios de estos proyectos son el resultado directo de
 > esta enriquecedora experiencia.
