@@ -7,8 +7,20 @@ permalink: /coautores
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
-| A | B | C |
+| Federico Ardila | Riccardo Biagioli | Lyonell Boulton |
 |<img width="160"   src="mrosas.jpg">   | <img width="160"   src="mrosas.jpg"> |<img width="160"  src="mrosas.jpg"> |
-| A | B | C |
+| Emmanuel Briand | François Bergeron | Nantel Bergeron |
 |<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
-| A | B | C |
+| Laura Colmenarejo | Luis Esquivias | Sara Faridi | 
+|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+| Ira Gessel | Álvaro Gutierrez | Adrian Lillo | 
+|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+| Emerson León | Samuel Lopes | Marni Mishna | 
+|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+| Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
+|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
+| Cristian Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
+|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
+| Sheila Sundaram  | Joel Stein | Mark Skandera |
+|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
+| Mike Zabrocki  | Con Emmanuel B | Con Marni y Sheila |
