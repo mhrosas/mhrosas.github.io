@@ -62,7 +62,7 @@ permalink: /CAenSevilla
    > Virtual Seminaire
 
 - [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91)
-   > Salobreña, March 17 - 20, 2024.
+   > Salobreña, March 17 - 20, 2024.\
    > Invited Speakers: Petter Brändén and Ira Gessel.
   
 - [School and Workshop "Mathematical fundations of quantum information"](https://congreso.us.es/enredo2009/Welcome.html)
