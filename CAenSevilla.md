@@ -52,7 +52,7 @@ permalink: /CAenSevilla
   >  his Ph.D. under the guidance of Mark Wildon at
   > Bristol University.
 
-- Luis Esquivias and Adrian Lillo.
+- [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/) and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
    > In a working group (together with Álvaro and the senior
    > members of the group), Luis and Álvaro, at the time
    >  undergraduate students, found a combinatorial proof of
