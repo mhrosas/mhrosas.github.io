@@ -16,10 +16,10 @@ permalink: /coautores
 | Ira Gessel | Álvaro Gutierrez | Adrian Lillo | 
 |<img width="160"  src="emerson.jpg"> |<img width="160"   src="samuel.jpg">|<img width="160"   src="marni.jpg"> |
 | Emerson León | Samuel Lopes | Marni Mishna | 
-|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+|<img width="160"  src="peter.jpg"> |<img width="160"   src="rosa.png">|<img width="160"   src="amarpreet.png"> |
 | Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
-|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
-| Cristian Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
+|<img width="160"   src="christophe.jpg"> |  <img width="160"   src="Rota.jpeg"> | <img width="160"   src="bruce.jpg"> |
+| Christophe Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
 |<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
 | Sheila Sundaram  | Joel Stein | Mark Skandera |
 |<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
