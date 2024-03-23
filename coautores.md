@@ -6,11 +6,11 @@ permalink: /coautores
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="160"   src="Federico.jpg"> |  <img width="160"   src="Riccardo.jpg"> | <img width="160"   src="Lyonell.jpg"> |
+|<img width="160"   src="federico.jpg"> |  <img width="160"   src="riccardo.jpg"> | <img width="160"   src="Lyonell.jpg"> |
 | Federico Ardila | Riccardo Biagioli | Lyonell Boulton |
-|<img width="160"   src="mrosas.jpg">   | <img width="160"   src="mrosas.jpg"> |<img width="160"  src="mrosas.jpg"> |
+|<img width="160"   src="emmanuel.jpg">   | <img width="160"   src="francois.jpg"> |<img width="160"  src="nantel.jpg"> |
 | Emmanuel Briand | François Bergeron | Nantel Bergeron |
-|<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
+|<img width="160"  src="laura.jpg"> |<img width="160"   src="luis.jpg">|<img width="160"   src="sara.jpg"> |
 | Laura Colmenarejo | Luis Esquivias | Sara Faridi | 
 |<img width="160"  src="mrosas.jpg"> |<img width="160"   src="mrosas.jpg">|<img width="160"   src="mrosas.jpg"> |
 | Ira Gessel | Álvaro Gutierrez | Adrian Lillo | 
