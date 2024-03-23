@@ -4,8 +4,12 @@
 
 > 
 > Buenos días, welcome to my webpage.
-> I am Mercedes Rosas, professor of mathematics in the Algebra department
-> of the    Universidad de Sevilla. I am also part of the group of [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
+> I am Mercedes Rosas, professor of mathematics in the
+> [Algebra](http://www.algebra.us.es/)
+>  department
+> of the    [Universidad de Sevilla](https://www.us.es/).
+>  I am also part of the group of
+>  [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
 > I wrote my PhD under the supervision of
 >  [Ira Gessel](https://people.brandeis.edu/~gessel/). 
@@ -27,7 +31,7 @@
 >
 >
 > A big part of doing mathematics is learning from your
->  [collaborators](./collaborators.md). I have had the
+>  [collaborators](./coautores.md). I have had the
 >  pleasure of writing with
 > a dream-team of mathematicians 
 > 
