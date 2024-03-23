@@ -4,12 +4,15 @@ title: Algebraic Combinatorics at Sevilla
 permalink: /CAenSevilla
 ---
 
-<img src='ALGEBRAICA.jpeg' width='350' align='right' >
-
-# Combinatoria Algebraica en Sevilla
 
 
-## Miembros:
+<img src='ALGEBRAICA.jpeg' width='250' align='right' >
+
+<H1> Combinatoria Algebraica en Sevilla </H1>
+
+
+
+<H2> Miembros:</H2>
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/)
 
@@ -17,7 +20,7 @@ permalink: /CAenSevilla
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-## Antiguos Estudiantes y estudiantes visitantes:
+<H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
@@ -60,7 +63,7 @@ permalink: /CAenSevilla
 
 
 
-## Conferences and Workshops:
+<H2> Conferences and Workshops:</H2>
 - [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
    > Virtual Seminaire
 
