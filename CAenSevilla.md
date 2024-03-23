@@ -4,6 +4,8 @@ title: Algebraic Combinatorics at Sevilla
 permalink: /CAenSevilla
 ---
 
+<img src='ALGEBRAICA.jpeg' width='350' align='right' >
+
 # Combinatoria Algebraica en Sevilla
 
 
