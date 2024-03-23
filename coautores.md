@@ -4,6 +4,11 @@ title: Coautores
 permalink: /coautores
 ---
 
+# Mis colaboradores
+
+
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="160"   src="federico.jpg"> |  <img width="160"   src="riccardo.jpg"> | <img width="160"   src="Lyonell.jpg"> |
