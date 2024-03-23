@@ -20,7 +20,7 @@ permalink: /coautores
 | Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
 |<img width="160"   src="christophe.jpg"> |  <img width="160"   src="Rota.jpeg"> | <img width="160"   src="bruce.jpg"> |
 | Christophe Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
-|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
+|<img width="160"   src="sheila.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mark.jpg"> |
 | Sheila Sundaram  | Joel Stein | Mark Skandera |
-|<img width="160"   src="mrosas.jpg"> |  <img width="160"   src="mrosas.jpg"> | <img width="160"   src="mrosas.jpg"> |
-| Mike Zabrocki  | Con Emmanuel B | Con Marni y Sheila |
+|<img width="160"   src="mike.jpg"> |   |  |
+| Mike Zabrocki  |   |   |
