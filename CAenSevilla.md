@@ -21,16 +21,6 @@ permalink: /CAenSevilla
 
 
 
- <H2> Proyectos de Investigación:</H2>
-
-
-Somos parte de los siguientes proyectos:
-
-
- - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
- 
- - FQM-333: Computational Algebra in NonCommutative Rings and Applications
-
 
 
 <H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
@@ -74,6 +64,17 @@ Somos parte de los siguientes proyectos:
    > the Graham and Pollak formula for the determinant of the
    > distance matrix of a tree based on the Gessel-Viennot
    > involution.
+
+
+ <H2> Proyectos de Investigación:</H2>
+
+
+Somos parte de los siguientes proyectos:
+
+
+ - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
+ 
+ - FQM-333: Computational Algebra in NonCommutative Rings and Applications
 
 
 
