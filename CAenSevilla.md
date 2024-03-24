@@ -36,7 +36,7 @@ Somos parte de los siguientes proyectos:
 <H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
-  > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016.
+  > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016. 
   > Laura currently hold a tenure track position at North Carolina State Univesity.
   > Laura is a rising star in the area of Algebraic Combinatorics.
 
@@ -45,12 +45,13 @@ Somos parte de los siguientes proyectos:
 - [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir)
   > Stefan was a frecuent visitor to the group during
   >  his PhD at Simon Fraser University in Vacouver. During
-  > this time, he delved deeper into some ideas regarding the
+  > this time, he delved into some ideas regarding the
   > study of Kronecker coefficients, which partially stemmed
   > from our group's discussions.
-  > Additionally, he collaborated us in an article on a new
+  > Additionally, he wrote an article with us on a new
   > symmetry exhibited by the Littlewood-Richardso
   > coefficients.
+  > 
   > Stefan currently holds a
   > postdoctoral position with the quantum information group of
   >  Adan Cabello in Sevilla.
