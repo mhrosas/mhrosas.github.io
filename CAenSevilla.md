@@ -58,13 +58,11 @@ permalink: /CAenSevilla
   > Bristol University.
 
 - [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/) and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
-   > In a working group (together with Álvaro and the senior
-   > members of the group), Luis and Álvaro, at the time
-   >  undergraduate students, found a combinatorial proof of
-   > the Graham and Pollak formula for the determinant of the
-   > distance matrix of a tree based on the Gessel-Viennot
-   > involution.
-
+  > In collaboration with Álvaro and the senior members of the group,
+  > Luis and Álvaro, both undergraduate students at the time,
+  > discovered a combinatorial proof of the Graham and Pollak formula
+  > for the determinant of the distance matrix of a tree, utilizing
+  >  the Gessel-Viennot involution.
 
  <H2> Proyectos de Investigación:</H2>
 
