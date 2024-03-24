@@ -40,9 +40,7 @@ permalink: /CAenSevilla
   > from our group's discussions.
   > Additionally, he wrote an article with us on a new
   > symmetry exhibited by the Littlewood-Richardson
-  > coefficients.
-  > 
-  > Stefan currently holds a
+  > coefficients. Stefan currently holds a
   > postdoctoral position with the quantum information group of
   >  Adan Cabello (Sevilla).
   
