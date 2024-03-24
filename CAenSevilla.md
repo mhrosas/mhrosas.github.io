@@ -39,12 +39,12 @@ permalink: /CAenSevilla
   > study of Kronecker coefficients, which partially stemmed
   > from our group's discussions.
   > Additionally, he wrote an article with us on a new
-  > symmetry exhibited by the Littlewood-Richardso
+  > symmetry exhibited by the Littlewood-Richardson
   > coefficients.
   > 
   > Stefan currently holds a
   > postdoctoral position with the quantum information group of
-  >  Adan Cabello in Sevilla.
+  >  Adan Cabello (Sevilla).
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
