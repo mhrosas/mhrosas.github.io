@@ -21,13 +21,6 @@ permalink: /CAenSevilla
 
 
 
- <H2> Proyectos de Investigación:</H2>
-
- - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
- 
- - FQM-333: Computational Algebra in NonCommutative Rings and Applications
-
-
 
 <H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
 
