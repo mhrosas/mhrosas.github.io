@@ -67,7 +67,7 @@ permalink: /CAenSevilla
  <H2> Funding:</H2>
 
 
-We are part of the following research proyects:
+We are funded by the following research projects::
 
 
  - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
