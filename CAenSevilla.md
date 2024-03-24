@@ -55,6 +55,7 @@ Somos parte de los siguientes proyectos:
   > Stefan currently holds a
   > postdoctoral position with the quantum information group of
   >  Adan Cabello in Sevilla.
+  
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
   > Álvaro's undergraduate senior thesis yielded two
@@ -62,7 +63,7 @@ Somos parte de los siguientes proyectos:
   > symmetric functions. Following his time in
   >  Sevilla, Álvaro authored a Master's thesis at the
   > University of Bonn under the supervision of Catharina
-  > Stroppel and Jacob Matherne. Presently, he is pursuing
+  > Stroppel and Jacob Matherne. Presently, Álvaro is pursuing
   >  his Ph.D. under the guidance of Mark Wildon at
   > Bristol University.
 
