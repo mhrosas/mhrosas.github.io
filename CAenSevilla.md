@@ -64,10 +64,10 @@ permalink: /CAenSevilla
   > for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
 
- <H2> Proyectos de Investigación:</H2>
+ <H2> Funding:</H2>
 
 
-Somos parte de los siguientes proyectos:
+We are part of the following research proyects:
 
 
  - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
