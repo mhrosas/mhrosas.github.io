@@ -107,7 +107,7 @@ My publications.
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos,
     > with Ardila, León, Skandera\
-    > universo.math, v 3, (2014)\ 
+    > universo.math, v 3, (2014)\
     > [ArXiV](https://arxiv.org/abs/1301.3989)
 
 1. The stability of the Kronecker product of Schur functions,
@@ -137,7 +137,7 @@ My publications.
 
 1. The defining ideals of conjugacy classes of nilpotent matrices and a conjecture of Weyman, 
      > with Riccardo Biagioli and Sara Faridi\ 
-     > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)
+     > International Math. Research Notes, IMRN, Art. ID rnn117,  (2008)\
      > [IMRN](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnn117/713101?redirectedFrom=fulltext) and  [ArXiV](https://arxiv.org/abs/0803.0658)
 
 
