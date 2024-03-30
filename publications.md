@@ -56,7 +56,8 @@ My publications.
      
 
 1. La historia del proyecto El Alﬁl Matemático,
-    > Espacio Matemático Vol. 1 (No. 2) 2020, pp. 129-139.
+    > Espacio Matemático Vol. 1 (No. 2) 2020, pp. 129-139.\
+    > [US](.\Alfil-revista.pdf)
   
      
 
