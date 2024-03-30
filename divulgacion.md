@@ -36,7 +36,7 @@ Algunos artículos escritos para mis estudiantes.
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos,
     > with Ardila, León, Skandera\
-    > universo.math, v 3, (2014)\ 
+    > universo.math, v 3, (2014)\
     > [ArXiV](https://arxiv.org/abs/1301.3989)
 
 
