@@ -55,6 +55,11 @@ My publications.
      > [Arxiv](http://arxiv.org/abs/2004.04995), (2020)
      
 
+1. La historia del proyecto El Alﬁl Matemático,
+    > Espacio Matemático Vol. 1 (No. 2) 2020, pp. 129-139.
+  
+     
+
 1. A comment of the combinatorics of the vertex operator $\Gamma {(t|X)}$ 
      >  Rocky Mountain Journal of Mathematics, Volume 49, Number 7, 2281-2295, (2019)\
      >  [Arxiv](https://arxiv.org/abs/1701.02516)
@@ -88,6 +93,22 @@ My publications.
      > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i3p15)
      > [ArXiv](https://arxiv.org/abs/1410.8017)
      
+1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas,
+    > with Federico Ardila,  Emerson León, and Mark Skandera,\
+    > universo.math, v.1. (2014)\
+    > [ArXiV](https://arxiv.org/abs/1301.3987)
+
+
+1.  Tres lecciones en combinatoria algebraica, II. Funciones simétricas y teoría de representaciones, 
+    > with Federico Ardila, Emerson León, and Mark Skandera,\
+    > universo.math, v.2. (2014)\
+    > [ArXiV](https://arxiv.org/abs/1301.3988)
+
+
+1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos,
+    > with Ardila, León, Skandera\
+    > universo.math, v 3, (2014)\ 
+    > [ArXiV](https://arxiv.org/abs/1301.3989)
 
 1. The stability of the Kronecker product of Schur functions,
      > with Emmanuel Briand and Rosa Orellana\
@@ -163,6 +184,16 @@ My publications.
     > Annals of combinatorics, 6, pp. 195-207, (2003)\
     > [IdUS](https://idus.us.es/handle/11441/46818)
     
+
+ 1. Los números de (Euler)-Catalan,
+    > Boletín de la Asociación Matemática Venezolana, Vol. X (2003).\
+    > [BAMV](https://www.emis.de/journals/BAMV/conten/vol10/catalan.pdf)
+    
+
+1.  Sumando a la derivada de la serie geométrica, 
+    > with Lyonell Boulton Boletín de la Asociación
+    > Matemática Venezolana, Vol. X (2003)\
+    > [BAMV](https://www.emis.de/journals/BAMV/conten/vol10/boultonrosas.pdf)
 
 1. Specializations of MacMahon symmetric functions and the polynomial algebra, 
     > Discrete Mathematics, 246 (1-3) No. 2, pp. 285-293, (2002)\
