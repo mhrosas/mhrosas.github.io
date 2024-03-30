@@ -82,7 +82,7 @@ My publications.
 1. Commutation and normal ordering for operators on symmetric functions
      > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana\
      > Dedicated to Ira Gessel\
-     > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)\ 
+     > Séminaire Lotharingien de Combinatoire 80, Article B80d, (2019)\
      > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
      > [ArXiv](https://arxiv.org/abs/1509.02581)
      
@@ -126,7 +126,7 @@ My publications.
      > with an appendix by professor Ketan Mulmuley\
      > with Emmanuel Briand, Rosa Orellana\
      > Computational Complexity, Volume 18. 4, (2009).\
-     > [Arxiv](arXiv:0810.3163)
+     > [Arxiv](https://arxiv.org/abs/0810.3163)
      
 
 1. Milne's volume function and vector symmetric polynomials
