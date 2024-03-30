@@ -18,7 +18,8 @@ Algunos artículos escritos para mis estudiantes.
 
 
 1. La historia del proyecto El Alﬁl Matemático,
-    > Espacio Matemático Vol. 1 (No. 2) 2020, pp. 129-139.
+    > Espacio Matemático Vol. 1 (No. 2) 2020, pp. 129-139.\
+    > [US](./Alfil-revista.pdf)
 
 
 1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas,
