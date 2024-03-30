@@ -192,7 +192,7 @@ My publications.
     
 
 1.  Sumando a la derivada de la serie geométrica, 
-    > with Lyonell Boulton Boletín de la Asociación
+    > with Lyonell Boulton Boletín de la Asociación\
     > Matemática Venezolana, Vol. X (2003)\
     > [BAMV](https://www.emis.de/journals/BAMV/conten/vol10/boultonrosas.pdf)
 
