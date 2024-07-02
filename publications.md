@@ -10,6 +10,7 @@ My publications.
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree.
     >with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.
+    >
     > [Arxiv](https://arxiv.org/abs/2407.01227) 
 
 
@@ -17,7 +18,7 @@ My publications.
     >with Emmanuel Briand and Stefan Trandafir\
     >Journal of Physics A: Mathematical and Theoretical. Vol. 57,1 (2024)\
     >[JoP-A](https://iopscience.iop.org/article/10.1088/1751-8121/ad0dc7)
-    >and [Arxiv](https://arxiv.org/abs/2305.08188)) 
+    >and [Arxiv](https://arxiv.org/abs/2305.08188) 
 
 
 1. Partial symmetries of iterated plethysms.
