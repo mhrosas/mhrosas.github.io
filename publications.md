@@ -10,7 +10,6 @@ My publications.
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree.
     >with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.
-    >
     > [Arxiv](https://arxiv.org/abs/2407.01227) 
 
 
