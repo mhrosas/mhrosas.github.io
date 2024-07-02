@@ -62,17 +62,6 @@ permalink: /CAenSevilla
   > for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
 
- <H2> Funding:</H2>
-
-
-We are funded by the following research projects::
-
-
- - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
- 
- - FQM-333: Computational Algebra in NonCommutative Rings and Applications
-
-
 
 
 <H2> Conferences and Workshops:</H2>
@@ -91,4 +80,12 @@ We are funded by the following research projects::
    >Castro-Urdiales, October 15 - 19, 2007
 
 
+ <H2> Funding:</H2>
 
+
+We are funded by the following research projects::
+
+
+ - CoMADmRT: Computational Methods in Algebra, D-modules and Representation Theory (PID2020-117843GB-I00)
+ 
+ - FQM-333: Computational Algebra in NonCommutative Rings and Applications
