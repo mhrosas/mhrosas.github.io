@@ -6,7 +6,7 @@ permalink: /CAenSevilla
 
 
 
-<img src='azulejo.png' width='350' align='right' >
+<img src='azulejo.png' width='200' align='right' >
 
 <H1> Combinatoria Algebraica en Sevilla </H1>
 
