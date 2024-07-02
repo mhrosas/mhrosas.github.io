@@ -27,8 +27,7 @@ permalink: /CAenSevilla
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016. 
-  > Laura currently hold a tenure track position at North Carolina State Univesity.
-  > Laura is a rising star in the area of Algebraic Combinatorics.
+  > Laura, a rising star in the area of Algebraic Combinatorics,  currently hold a tenure track position at North Carolina State Univesity.
 
   
   
