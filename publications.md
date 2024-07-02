@@ -8,7 +8,7 @@ permalink: /publications
 My publications.
 
 
-1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree. (2024)
+1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
     > [Extended abstract (FPSAC)](https://fpsac2024.rub.de/)\
     > [Arxiv](https://arxiv.org/abs/2407.01227) 
