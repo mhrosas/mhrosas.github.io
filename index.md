@@ -16,7 +16,7 @@
 > Afterwards, I held postdoctoral and visitor positions at the
 > Universidad Simón Bolívar, the Laboratoire d’Algèbre, de
 > Combinatoire et d’Informatique Mathématique
-> [LACIM](https://lacim.uqam.ca/en/home/) of the Université du
+> [LACIM](https://lacim.uqam.ca/fr/) of the Université du
 >  Québec à Montréal (UQAM) and the Toronto Combinatorics group at
 > York University/Fields Institute.
 > Almost two decades ago, I came to Sevilla with a Ramón
