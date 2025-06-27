@@ -29,7 +29,7 @@ permalink: /CAenSevilla
 > piecewise quasipolynomial in this sense. This includes or will include families of  Littlewood-Richardson
 > coefficients, Kronecker coefficients, Plethysm coefficients and alike.
 
-- Adrian Lillo has written some source code for the record-presrving  bijection and the various statistics appearing in
+- Adrian Lillo's SageMath code for the record-presrving  bijection and the various statistics appearing in
 our work on record codes and parking functions. (https://github.com/adrianlillo/weary_drivers)
 
 
