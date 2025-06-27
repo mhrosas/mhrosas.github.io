@@ -21,6 +21,7 @@ permalink: /CAenSevilla
 <H2> Experimental mathematics:</H2>
 
 - Emmanuel Briand mantains a Database of Piecewise Quasipolynomial Functions (https://doi.org/10.5281/zenodo.15375088).
+  
 > A quasipolynomial is a function on integer points given by several polynomials: one for each coset of some
 > full-rank sublattice. The piecewise quasipolynomial functions considered here have as  domains of quasipolynomiality 
 > the maximal cells of a fan subdividing a cone, and are zero outside this cone. 
