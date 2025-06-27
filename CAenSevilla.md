@@ -28,9 +28,19 @@ permalink: /CAenSevilla
 > piecewise quasipolynomial in this sense. This includes or will include families of  Littlewood-Richardson
 > coefficients, Kronecker coefficients, Plethysm coefficients and alike.
 
-- Adrian Lillo's SageMath code for the record-presrving  bijection and the various statistics appearing in
+- Adrian Lillo SageMath notebook for the record-presrving  bijection and the various statistics appearing in
 our work on record codes and parking functions. (https://github.com/adrianlillo/weary_drivers)
 
+- Emmanuel Briand SageMath notebook (https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/the144symmetries.ipynb)
+> We perform explicit calculations with sagemath to show that the Littlewood-Richardson coefficients
+> associated to the representation theory of SL3 afford a group of 144 linear symmetries, which is more than the 12.
+
+- (On the growth of the Kronecker coefficients: Companion Worksheet in Sage.)
+> This notebook implements some of the calculations presented in the preprint On the growth of the Kronecker
+> coefficients (Emmanuel Briand, Amarpreet Rattan, Mercedes Rosas; 2016 (reference [On the growth] below
+> well-known symmetries.
+
+Our calculations also show that this group of symmetries acts transitively on the set of chambers of the corresponding chamber complex. As a consequence, the data of the group and of only one chamber (with the formula for the LR on this chamber) completely describe these LR coefficients.
 
 <H2> Estudiantes y visitantes:</H2>
 
