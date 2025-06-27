@@ -18,7 +18,7 @@ permalink: /CAenSevilla
 
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
-<H2> Experimentarl mathematics:</H2>
+<H2> Experimental mathematics:</H2>
 
 - Emmanuel Briand mantains a Database of Piecewise Quasipolynomial Functions (https://doi.org/10.5281/zenodo.15375088).
 > A quasipolynomial is a function on integer points given by several polynomials: one for each coset of some
