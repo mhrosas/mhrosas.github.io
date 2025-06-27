@@ -25,5 +25,5 @@ permalink: /coautores
 | Christophe Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
 |<img width="160"   src="sheila.jpg"> |  <img width="160"   src="joelS.jpeg"> | <img width="160"   src="mark.jpg"> |
 | Sheila Sundaram  | Joel Stein | Mark Skandera |
-| <img width="160"   src="Stefan3.png">  |<img width="160"   src="mike.jpg"> |  <img width="160"   src="Conira.png">  |
-| Stefan Trandafir   | Mike Zabrocki  | Adrián, Luis, Ira, Álvaro.   |
+| <img width="160"   src="Stefan3.png">  |<img width="160"   src="mike.jpg"> |  <img width="160"   src="ConIra.png">  |
+| Stefan Trandafir   | Mike Zabrocki  | con Adrián, Luis, Ira, Álvaro.   |
