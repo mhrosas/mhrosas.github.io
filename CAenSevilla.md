@@ -30,7 +30,7 @@ permalink: /CAenSevilla
 > coefficients, Kronecker coefficients, Plethysm coefficients and alike.
 
 - Adrian Lillo has written some source code for the record-presrving  bijection and the various statistics appearing in
-- our work on record codes and parking functions. (https://github.com/adrianlillo/weary_drivers)
+our work on record codes and parking functions. (https://github.com/adrianlillo/weary_drivers)
 
 
 <H2> Estudiantes y visitantes:</H2>
