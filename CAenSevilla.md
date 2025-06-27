@@ -19,7 +19,7 @@ permalink: /CAenSevilla
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
-<H2> Estudiantes y postdocs:</H2>
+<H2> Estudiantes y visitantes:</H2>
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir).
 > Building on our decomposition of a Cayley tree via records,
