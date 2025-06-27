@@ -29,7 +29,7 @@ permalink: /CAenSevilla
 > coefficients, Kronecker coefficients, Plethysm coefficients and alike.
 
 - Adrian Lillo's SageMath notebook (https://github.com/adrianlillo/weary_drivers)
->  the record-presrving  bijection and the various statistics appearing in
+>  the record-preserving  bijection and the various statistics appearing in
 >  our work on record codes and parking functions. 
 
 - Emmanuel Briand's SageMath notebook (https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/the144symmetries.ipynb)
