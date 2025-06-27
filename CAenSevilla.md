@@ -20,7 +20,7 @@ permalink: /CAenSevilla
 
 <H2> Experimental mathematics:</H2>
 
-- Emmanuel Briand mantains a Database of Piecewise Quasipolynomial Functions [https://doi.org/10.5281/zenodo.15375088).
+- Emmanuel Briand mantains a [Database of Piecewise Quasipolynomial Functions](https://doi.org/10.5281/zenodo.15375088).
 > A quasipolynomial is a function on integer points given by several polynomials: one for each coset of some
 > full-rank sublattice. The piecewise quasipolynomial functions considered here have as  domains of quasipolynomiality 
 > the maximal cells of a fan subdividing a cone, and are zero outside this cone. 
@@ -28,15 +28,15 @@ permalink: /CAenSevilla
 > piecewise quasipolynomial in this sense. This includes or will include families of  Littlewood-Richardson
 > coefficients, Kronecker coefficients, Plethysm coefficients and alike.
 
-- Adrian Lillo's SageMath notebook [https://github.com/adrianlillo/weary_drivers)
+- Adrian Lillo's SageMath notebook [Weary drivers](https://github.com/adrianlillo/weary_drivers)
 >  the record-preserving  bijection and the various statistics appearing in
 >  our work on record codes and parking functions. 
 
-- Emmanuel Briand's SageMath notebook [https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/the144symmetries.ipynb)
+- Emmanuel Briand's SageMath notebook [the144symmetries](https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/the144symmetries.ipynb)
 > We perform explicit calculations with sagemath to show that the Littlewood-Richardson coefficients
 > associated to the representation theory of SL3 afford a group of 144 linear symmetries, which is more than the 12.
 
-- Emmanuel Briand's SageMath notebook [On the growth of the Kronecker coefficients: Companion Worksheet in Sage.)
+- Emmanuel Briand's SageMath notebook [On the growth of the Kronecker coefficients: Companion Worksheet](https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/HookStability.ipynb)
 > This notebook implements some of the calculations presented in the preprint On the growth of the Kronecker
 > coefficients (Emmanuel Briand, Amarpreet Rattan, Mercedes Rosas; 2016 (reference [On the growth] below
 > well-known symmetries.
