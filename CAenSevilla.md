@@ -74,7 +74,10 @@ permalink: /CAenSevilla
   >  sextuple of statistics on Cayley trees and a corresponding sextuple of
   > statistics on parking functions.
 
-
+-  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
+  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
+  > the symmetric and the linear general group, and its
+  >  connection to FI-modules.
 
 <H2> Conferences and Workshops:</H2>
 
