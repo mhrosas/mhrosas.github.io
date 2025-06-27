@@ -31,6 +31,7 @@ permalink: /CAenSevilla
 > Source code for the bijection and the various statistics appearing in this work. (https://github.com/adrianlillo/weary_drivers)
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
+  > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
   > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
   > the symmetric and the linear general group, and its
   >  connection to FI-modules.
