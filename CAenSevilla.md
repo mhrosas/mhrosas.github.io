@@ -27,6 +27,8 @@ permalink: /CAenSevilla
 > and Picciotto, we define parking functions anew and construct
 >  a record-preserving bijection with Cayley trees. This leads
 >  to an equidistribution of six statistics on both structures.
+>
+> Source code for the bijection and the various statistics appearing in this work. (https://github.com/adrianlillo/weary_drivers)
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
   > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
