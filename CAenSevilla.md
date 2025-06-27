@@ -65,14 +65,14 @@ permalink: /CAenSevilla
 <H2> Estudiantes y postdocs:</H2>
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir).
-  > Building on a decomposition of a Cayley tree using the notion of a
-  > record, a concept closely related to the blob encoding of a tree introduced by
-  >  Kreweras and Moszkowski, and Picciotto, that we explore and extend. We provide
-  >  an alternative definition of parking functions and derive from it a
-  > record-preserving bijection between Cayley trees and parking functions.
-  >  Finally, we use this bijection to establish an equidistribution between a
-  >  sextuple of statistics on Cayley trees and a corresponding sextuple of
-  > statistics on parking functions.
+> Building on our decomposition of a Cayley tree using the notion of a
+> record—a concept closely related to the blob encoding of a tree introduced
+> by Kreweras and Moszkowski, and further developed by Picciotto—we explore
+> and extend this connection. We provide an alternative definition of parking
+> functions and, from it, derive a record-preserving bijection between Cayley
+> trees and parking functions. Finally, we use this bijection to establish an
+> equidistribution between a sextuple of statistics on Cayley trees and a
+> corresponding sextuple of statistics on parking functions.
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
   > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
