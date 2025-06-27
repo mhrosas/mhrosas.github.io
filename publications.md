@@ -7,6 +7,10 @@ permalink: /publications
 
 My publications.
 
+1. On Weary Drivers, Records of Trees, and Parking Functions, (2025)
+    > with Adrián Lillo and Stefan Trandafir.\
+    > [Arxiv](https://arxiv.org) 
+
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
