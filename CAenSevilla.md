@@ -16,11 +16,22 @@ permalink: /CAenSevilla
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/)
 
-
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
 
+<H2> Estudiantes y postdocs:</H2>
 
+-  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir).
+> Building on our decomposition of a Cayley tree via records,
+> closely related to the blob encoding of Kreweras, Moszkowski,
+> and Picciotto, we define parking functions anew and construct
+>  a record-preserving bijection with Cayley trees. This leads
+>  to an equidistribution of six statistics on both structures.
+
+-  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
+  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
+  > the symmetric and the linear general group, and its
+  >  connection to FI-modules.
 
 
 <H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
@@ -61,20 +72,6 @@ permalink: /CAenSevilla
   > for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
 
-
-<H2> Estudiantes y postdocs:</H2>
-
--  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir).
-> Building on our decomposition of a Cayley tree via records,
-> closely related to the blob encoding of Kreweras, Moszkowski,
-> and Picciotto, we define parking functions anew and construct
->  a record-preserving bijection with Cayley trees. This leads
->  to an equidistribution of six statistics on both structures.
-
--  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
-  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
-  > the symmetric and the linear general group, and its
-  >  connection to FI-modules.
 
 <H2> Conferences and Workshops:</H2>
 
