@@ -18,6 +18,17 @@ permalink: /CAenSevilla
 
 - [Mercedes Rosas](https://mhrosas.github.io/)
 
+<H2> Experimentarl mathematics:</H2>
+
+Emmanuel Briand is creating a Database of Piecewise Quasipolynomial Functions (https://doi.org/10.5281/zenodo.15375088).
+> A quasipolynomial is a function on integer points given by several polynomials: one for each coset of some
+> full-rank sublattice. The piecewise quasipolynomial functions considered here have as  domains of quasipolynomiality 
+> the maximal cells of a fan subdividing a cone, and are zero outside this cone. 
+
+> This database provides a full description of some small multiplicity functions from representation theory that are
+> piecewise quasipolynomial in this sense. This includes or will include families of  Littlewood-Richardson
+> coefficients, Kronecker coefficients, Plethysm coefficients and alike
+
 
 <H2> Estudiantes y visitantes:</H2>
 
