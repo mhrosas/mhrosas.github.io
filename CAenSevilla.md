@@ -38,8 +38,8 @@ permalink: /CAenSevilla
 
 - Emmanuel Briand's SageMath notebook [On the growth of the Kronecker coefficients: Companion Worksheet](https://nbviewer.org/url/emmanuel.jean.briand.free.fr/publications/HookStability.ipynb)
 > This notebook implements some of the calculations presented in the preprint On the growth of the Kronecker
-> coefficients (Emmanuel Briand, Amarpreet Rattan, Mercedes Rosas; 2016 (reference [On the growth] below
-> well-known symmetries. Our calculations also show that this group of symmetries acts transitively
+> coefficients (Emmanuel Briand, Amarpreet Rattan, Mercedes Rosas; 2016
+>  Our calculations also show that this group of symmetries acts transitively
 > on the set of chambers of the corresponding chamber complex. As a consequence, the data of the group
 > and of only one chamber (with the formula for the LR on this chamber) completely describe these LR coefficients.
 
