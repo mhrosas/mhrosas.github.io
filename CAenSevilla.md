@@ -26,7 +26,10 @@ permalink: /CAenSevilla
 > the maximal cells of a fan subdividing a cone, and are zero outside this cone. 
 > This database provides a full description of some small multiplicity functions from representation theory that are
 > piecewise quasipolynomial in this sense. This includes or will include families of  Littlewood-Richardson
-> coefficients, Kronecker coefficients, Plethysm coefficients and alike
+> coefficients, Kronecker coefficients, Plethysm coefficients and alike.
+
+- Adrian Lillo has written some source code for the record-presrving  bijection and the various statistics appearing in
+- our work on record codes and parking functions. (https://github.com/adrianlillo/weary_drivers)
 
 
 <H2> Estudiantes y visitantes:</H2>
@@ -38,7 +41,7 @@ permalink: /CAenSevilla
 >  a record-preserving bijection with Cayley trees. This leads
 >  to an equidistribution of six statistics on both structures.
 >
-> Source code for the bijection and the various statistics appearing in this work. (https://github.com/adrianlillo/weary_drivers)
+
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
   > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
