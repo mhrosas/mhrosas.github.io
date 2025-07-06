@@ -9,7 +9,7 @@ My publications.
 
 1. On Weary Drivers, Records of Trees, and Parking Functions, (2025)
     > with Adrián Lillo and Stefan Trandafir.\
-    > [Arxiv](https://arxiv.org) 
+    > [Arxiv](https://arxiv.org/abs/2506.22145)
 
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
