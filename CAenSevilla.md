@@ -45,12 +45,13 @@ permalink: /CAenSevilla
 
 <H2> Estudiantes y visitantes:</H2>
 
--  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir).
+-  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://sites.google.com/view/stefan-trandafir).
 > Building on our decomposition of a Cayley tree via records,
 > closely related to the blob encoding of Kreweras, Moszkowski,
 > and Picciotto, we define parking functions anew and construct
 >  a record-preserving bijection with Cayley trees. This leads
->  to an equidistribution of six statistics on both structures.
+>  to an equidistribution of six statistics on both structures. On a second closely related work
+> we bould on the record decomposition to understand the record generating functions for trees and forest.
 >
 
 
@@ -69,7 +70,7 @@ permalink: /CAenSevilla
 
   
   
-- [Stefan Trandafir](https://www.researchgate.net/profile/Stefan-Trandafir)
+- [Stefan Trandafir](https://sites.google.com/view/stefan-trandafir)
   > Stefan was a frecuent visitor to the group during
   >  his PhD at Simon Fraser University in Vacouver. During
   > this time, he delved into some ideas regarding the
