@@ -88,12 +88,6 @@ My publications.
      > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348) 
      
 
-1.  Combinatorics on a family of reduced Kronecker coefficients
-     > with Laura Colmenarejo\
-     > Comptes Rendus Mathématique, Académie des Sciences, Paris, (2015)\
-     > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.1016/j.crma.2015.07.012/)
-    > [Arxiv](https://arxiv.org/abs/1506.02829)
-
 
 1. Commutation and normal ordering for operators on symmetric functions
      > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana\
@@ -102,6 +96,18 @@ My publications.
      > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
      > [ArXiv](https://arxiv.org/abs/1509.02581)
      
+1. On the growth of Kronecker coefficients
+     > with Emmanuel Briand and Rattan, Amarpreet\
+     > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. (2017)\
+     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348) 
+     
+
+1.  Combinatorics on a family of reduced Kronecker coefficients
+     > with Laura Colmenarejo\
+     > Comptes Rendus Mathématique, Académie des Sciences, Paris, (2015)\
+     > [CR](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.1016/j.crma.2015.07.012/)
+    > [Arxiv](https://arxiv.org/abs/1506.02829)
+
 
 1. Rectangular Symmetries for coefficients of symmetric functions,
      > with E. Briand and R. Orellana\
