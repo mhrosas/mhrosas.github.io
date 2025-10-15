@@ -7,6 +7,14 @@ permalink: /publications
 
 My publications.
 
+
+
+1. OOn the enumeration of records of rooted trees and rooted forests, (2025)
+    > with Adrián Lillo and Stefan Trandafir.
+    >[Arxiv](https://arxiv.org/abs/2510.12536)
+
+
+
 1. On Weary Drivers, Records of Trees, and Parking Functions, (2025)
     > with Adrián Lillo and Stefan Trandafir.\
     > [Arxiv](https://arxiv.org/abs/2506.22145)
