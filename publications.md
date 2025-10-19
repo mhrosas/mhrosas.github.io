@@ -81,20 +81,13 @@ My publications and preprints.
      >  [Arxiv](https://arxiv.org/abs/1701.02516)
      
 
-
-1. On the growth of Kronecker coefficients, (2017)
-     > with Emmanuel Briand and Rattan, Amarpreet\
-     > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. \
-     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348) 
-     
-
-
 1. Commutation and normal ordering for operators on symmetric functions, (2019)
      > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana\
      > Dedicated to Ira Gessel\
      > Séminaire Lotharingien de Combinatoire 80, Article B80d\
      > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
      > [ArXiv](https://arxiv.org/abs/1509.02581)
+     
      
 1. On the growth of Kronecker coefficients, (2017)
      > with Emmanuel Briand and Rattan, Amarpreet\
