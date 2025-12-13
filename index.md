@@ -3,6 +3,7 @@ freedom nor democracy.  (Jørgen Watne Frydnes, Chair of the Norwegian Nobel Com
 
 <img src='mrosas.jpg' width='170' align='right' >
 
+> ----------------------
 > 
 > Buenos días, welcome to my webpage.
 > I am Mercedes Rosas, professor of mathematics in the
