@@ -3,7 +3,7 @@
 > <img src='mrosas.jpg' width='180' align='right' >
 >
 ><q> As they lost their rights, their food, their health and safety – and eventually their own futures – much of the world stuck to old narratives. Some insisted Venezuela was an ideal egalitarian society. Others wanted only to see a struggle against imperialism. Still others chose to interpret Venezuelan reality as a contest between superpowers, overlooking the bravery of those who seek freedom in their own country. What all these observers have in common is this: the moral betrayal of those who actually live under this brutal regime.     If you only support people who share your political views, you have understood neither
-freedom nor democracy.  (Jørgen Watne Frydnes, Chair of the Norwegian Nobel Committee speaking on the behalf of my country)   
+freedom nor democracy.  ([Jørgen Watne Frydnes](https://www.nobelprize.org/prizes/peace/2025/1750878-ceremony-speech-spanish/), Chair of the Norwegian Nobel Committee speaking on the behalf of my country)   
 >
 >
 > ----------------------
