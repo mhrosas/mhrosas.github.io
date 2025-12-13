@@ -61,8 +61,6 @@ freedom nor democracy.  (Jørgen Watne Frydnes, Chair of the Norwegian Nobel Com
 >  [ECCO](https://fardila.com/SFSUColombia/ecco.html).
 > Varios de estos proyectos son el resultado directo de
 > esta enriquecedora experiencia.
->
-> ---------------------- 
 > 
 > La información sobre mi docencia se encuentra en la enseñanza
 > virtual de la Universidad de Sevilla.
