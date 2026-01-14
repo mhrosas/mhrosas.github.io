@@ -7,6 +7,9 @@ permalink: /publications
 
 My publications and preprints.
 
+1. The genesis sequence, tree records and endofunctions, (2026)
+    > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
+    > [Arxiv](https://arxiv.org/abs/2601.07938)
 
 
 1. On the enumeration of records of rooted trees and rooted forests, (2025)
