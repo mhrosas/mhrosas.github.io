@@ -8,7 +8,7 @@ permalink: /coautores
 
 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+|:---------------------------:|:---------------------------:|:---------------------------:|
 |<img width="180"   src="federico.jpg"> |  <img width="180"   src="riccardo.jpg"> | <img width="180"   src="Lyonell.jpg"> |
 | Federico Ardila | Riccardo Biagioli | Lyonell Boulton |
 |<img width="180"   src="emmanuel.jpg">   | <img width="180"   src="francois.jpg"> |<img width="180"  src="nantel.jpg"> |
