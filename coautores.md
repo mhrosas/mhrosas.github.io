@@ -21,9 +21,10 @@ permalink: /coautores
 | Emerson León |  Adrian Lillo |  Samuel Lopes |  
 | <img width="180"   src="marni.jpg"> | <img width="180"  src="peter.jpg"> |<img width="180"   src="rosa.png">|
 | Marni Mishna | Peter MacNamara  | Rosa Orellana | 
-| <img width="180"   src="amarpreet.png"> | <img width="180"   src="Pablo_Puerto.png"> |
-|<img width="180"   src="christophe.jpg"> |  <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg"> |
-| Amarpreet Rattan | Pablo Puerto | Christophe Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
+| <img width="180"   src="amarpreet.png"> | <img width="180"   src="Pablo_Puerto.png"> | <img width="180"   src="christophe.jpg"> | 
+| Amarpreet Rattan | Pablo Puerto | Christophe Reutenauer  | 
+| <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg"> |
+ | Gian-Carlo Rota | Bruce Sagan |
 |<img width="180"   src="sheila.jpg"> |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> |
 | Sheila Sundaram  | Joel Stein | Mark Skandera |
 | <img width="180"   src="Stefan3.png">  |<img width="180"   src="mike.jpg"> |  <img width="200"   src="ConIra.png">  |
