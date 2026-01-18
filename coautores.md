@@ -17,10 +17,10 @@ permalink: /coautores
 | Laura Colmenarejo | Enrica Duchi | Luis Esquivias |
 | <img width="180"   src="sara.jpg"> |<img width="180"  src="ira.jpg"> |<img width="180"   src="alvaro.jpg">|<img width="180"   src="alvaro.jpg">|
 | Sara Faridi | Ira Gessel | Álvaro Gutierrez |
-|<img width="180"  src="emerson.jpg"> |<img width="180"   src="adrian.jpg">  | <img width="180"   src="samuel.jpg">|<img width="180"   src="marni.jpg"> |
-| Emerson León |  Adrian Lillo |  Samuel Lopes | Marni Mishna | 
-|<img width="180"  src="peter.jpg"> |<img width="180"   src="rosa.png">|<img width="180"   src="amarpreet.png"> |
-| Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
+|<img width="180"  src="emerson.jpg"> |<img width="180"   src="adrian.jpg">  | <img width="180"   src="samuel.jpg">|
+| Emerson León |  Adrian Lillo |  Samuel Lopes |  
+| <img width="180"   src="marni.jpg"> | <img width="180"  src="peter.jpg"> |<img width="180"   src="rosa.png">|<img width="180"   src="amarpreet.png"> |
+| Marni Mishna | Peter MacNamara  | Rosa Orellana | Amarpreet Rattan |
 |<img width="180"   src="christophe.jpg"> |  <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg"> |
 | Christophe Reutenauer  | Gian-Carlo Rota | Bruce Sagan |
 |<img width="180"   src="sheila.jpg"> |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> |
