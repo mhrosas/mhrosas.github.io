@@ -23,9 +23,9 @@ permalink: /coautores
 | Marni Mishna | Peter MacNamara  | Rosa Orellana | 
 | <img width="180"   src="amarpreet.png"> | <img width="180"   src="Pablo_Puerto.png"> | <img width="180"   src="christophe.jpg"> | 
 | Amarpreet Rattan | Pablo Puerto | Christophe Reutenauer  | 
-| <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg"> |
- | Gian-Carlo Rota | Bruce Sagan |
-|<img width="180"   src="sheila.jpg"> |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> |
-| Sheila Sundaram  | Joel Stein | Mark Skandera |
+| <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg">  | <img width="180"   src="sheila.jpg"> |
+ | Gian-Carlo Rota | Bruce Sagan  | Sheila Sundaram  |
+ |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> |
+ | Joel Stein | Mark Skandera |
 | <img width="180"   src="Stefan3.png">  |<img width="180"   src="mike.jpg"> |  <img width="200"   src="ConIra.png">  |
 | Stefan Trandafir   | Mike Zabrocki  | con Adrián, Luis, Ira, Álvaro.   |
