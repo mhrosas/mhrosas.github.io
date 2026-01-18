@@ -25,7 +25,7 @@ permalink: /coautores
 | Amarpreet Rattan | Pablo Puerto | Christophe Reutenauer  | 
 | <img width="180"   src="Rota.jpeg"> | <img width="180"   src="bruce.jpg">  | <img width="180"   src="sheila.jpg"> |
  | Gian-Carlo Rota | Bruce Sagan  | Sheila Sundaram  |
- |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> |
- | Joel Stein | Mark Skandera |
-| <img width="180"   src="Stefan3.png">  |<img width="180"   src="mike.jpg"> |  <img width="200"   src="ConIra.png">  |
-| Stefan Trandafir   | Mike Zabrocki  | con Adrián, Luis, Ira, Álvaro.   |
+ |  <img width="180"   src="joelS.jpeg"> | <img width="180"   src="mark.jpg"> | <img width="180"   src="Stefan3.png">  |
+ | Joel Stein | Mark Skandera | Stefan Trandafir |
+ |<img width="180"   src="mike.jpg"> |  <img width="200"   src="ConIra.png">  |
+   | Mike Zabrocki  | con Adrián, Luis, Ira, Álvaro.   |
