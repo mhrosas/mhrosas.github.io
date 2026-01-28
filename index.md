@@ -1,8 +1,6 @@
 
 > ----------------------
 > <img src='mrosas.jpg' width='180' align='right' >
-
-> ----------------------
 > 
 > Buenos días, welcome to my webpage.
 > I am Mercedes Rosas, professor of mathematics in the
