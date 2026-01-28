@@ -7,8 +7,7 @@
 > 
 > I am Mercedes Rosas, professor of mathematics in the
 > [Algebra](http://www.algebra.us.es/)
->  department
-> of the    [Universidad de Sevilla](https://www.us.es/).
+>  department of the [Universidad de Sevilla](https://www.us.es/).
 >  I am also part of the group of
 >  [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
@@ -20,7 +19,7 @@
 > [LACIM](https://lacim.uqam.ca/fr/) of the Université du
 >  Québec à Montréal (UQAM) and the Toronto Combinatorics group at
 > York University/Fields Institute.
-> Almost two decades ago, I came to Sevilla with a Ramón
+> About two decades ago, I came to Sevilla with a Ramón
 > and Cajal fellowship. 
 >
 > 
