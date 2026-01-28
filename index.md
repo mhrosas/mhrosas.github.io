@@ -19,11 +19,15 @@
 >  Québec à Montréal (UQAM) and the Toronto Combinatorics group at
 > York University/Fields Institute.
 > Almost two decades ago, I came to Sevilla with a Ramón
-> and Cajal fellowship. I am still amazed at how beautiful this city is.
+> and Cajal fellowship. 
 >
+> 
 >   My main interests are
 > combinatorial representation theory, combinatorial Hopf algebras,
-> and the theory of symmetric functions. If you're interested in
+> and the theory of symmetric functions.
+>
+> 
+>If you're interested in
 >  delving deeper into my research, feel free to explore my
 > [Publications](./publications.md).
 >
