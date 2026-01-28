@@ -24,14 +24,13 @@
 > and Cajal fellowship. 
 >
 > 
->   My main interests are
-> combinatorial representation theory, combinatorial Hopf algebras,
-> and the theory of symmetric functions.
->
 > 
 >If you're interested in
 >  delving deeper into my research, feel free to explore my
-> [Publications](./publications.md).
+> [Publications](./publications.md).   My main interests are
+> combinatorial representation theory, combinatorial Hopf algebras,
+> and the theory of symmetric functions. 
+>
 >
 >
 >
