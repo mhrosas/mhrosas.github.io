@@ -11,7 +11,7 @@
 >  I am also part of the group of
 >  [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
-> I wrote my PhD under the supervision of
+> I wrote my PhD at [Brandeis University](https://www.brandeis.edu/mathematics/) under the supervision of
 >  [Ira Gessel](https://people.brandeis.edu/~gessel/). 
 > Afterwards, I held postdoctoral and visitor positions at the
 > Universidad Simón Bolívar, the Laboratoire d’Algèbre, de
