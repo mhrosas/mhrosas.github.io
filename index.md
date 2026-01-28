@@ -64,7 +64,7 @@
 > esta enriquecedora experiencia.
 > 
 > La información sobre mi [docencia](https://ev.us.es/) se encuentra en la enseñanza
-> virtual de la Universidad de Sevilla. Este cuatrimestre estoy dictando un 
+> virtual de la Universidad de Sevilla. Este cuatrimestre estoy dictando las asignaturas de 
 > [Álgebra, combinatoria y Computación](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-matematicas/1710030)
 > para estudiantes del cuarto año del grado de matemáticas (y sus dobles grados), y el curso de
 > [Grupos y álgebras de Lie](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-matematicas/51620018)
