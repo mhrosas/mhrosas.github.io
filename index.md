@@ -18,7 +18,8 @@
 > Combinatoire et d’Informatique Mathématique
 > [LACIM](https://lacim.uqam.ca/fr/) of the Université du
 >  Québec à Montréal (UQAM) and the Toronto Combinatorics group at
-> York University/Fields Institute.
+> [York University](https://www.yorku.ca/science/mathstats/) and the
+> [Fields Institute](http://www.fields.utoronto.ca/).
 > About two decades ago, I came to Sevilla with a Ramón
 > and Cajal fellowship. 
 >
