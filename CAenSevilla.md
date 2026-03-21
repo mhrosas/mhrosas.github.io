@@ -50,9 +50,9 @@ permalink: /CAenSevilla
 > closely related to the blob encoding of Kreweras, Moszkowski,
 > and Picciotto, we define parking functions anew and construct
 >  a record-preserving bijection with Cayley trees. This leads
->  to an equidistribution of six statistics on both structures. On a second closely related work
-> we bould on the record decomposition to understand the record generating functions for trees and forest.
->
+>  to an equidistribution of six statistics on both structures.
+> More recently, we have been looking at the record generating functions for trees and forests.
+> A Maria de Maetzu grant funds his PhD research.
 
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
