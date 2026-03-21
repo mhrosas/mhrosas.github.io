@@ -62,8 +62,9 @@ permalink: /CAenSevilla
   >  connection to FI-modules.
 
 - Luis Calvo Sánchez
-  > Luis wrote his senior and master thesis on our group. He is interested in the higher dimensional version of the
-  >  Combinatorial Laplacian, and is currently writing up the results of his investigation.
+  > Luis wrote his senior on a higher dimensional version of the
+  >  Combinatorial Laplacian defined in the framework of algebraic topology. His work is based on results of Kalai, Bernardi and Klivans.
+  > Luis is currently writing up the results of his investigation.
 
 - Pablo Puerto
   > Pablo wrote his senior thesis focusing in some bijections related to tree records.
