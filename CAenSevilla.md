@@ -111,6 +111,7 @@ permalink: /CAenSevilla
   > discovered a combinatorial proof of the Graham and Pollak formula
   > for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
+  > Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
 
 
 <H2> Conferences and Workshops:</H2>
