@@ -88,10 +88,10 @@ permalink: /CAenSevilla
   > from our group's discussions.
   > Additionally, he discovered a new
   > symmetry exhibited by the Littlewood-Richardson
-  > coefficients. Stefan currently holds a
+  > coefficients. Afterwards, Stefan came back to Sevilla for 
   > postdoctoral position with the quantum information group of
   >  Adan Cabello (Sevilla).
-  >  During this second period Stefan has been working with us on questions related to
+  >  During this second period, Stefan collaborated with us on questions related to
   > records of trees and forests.
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
