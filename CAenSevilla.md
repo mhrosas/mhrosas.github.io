@@ -45,7 +45,7 @@ permalink: /CAenSevilla
 
 <H2> Estudiantes y visitantes:</H2>
 
--  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) and [Stefan Trandafir](https://sites.google.com/view/stefan-trandafir).
+-  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
 > Building on our decomposition of a Cayley tree via records,
 > closely related to the blob encoding of Kreweras, Moszkowski,
 > and Picciotto, we define parking functions anew and construct
@@ -91,6 +91,8 @@ permalink: /CAenSevilla
   > coefficients. Stefan currently holds a
   > postdoctoral position with the quantum information group of
   >  Adan Cabello (Sevilla).
+  >  During this second period Stefan has been working with us on questions related to
+  > records of trees and forests.
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
 
