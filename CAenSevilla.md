@@ -104,13 +104,12 @@ permalink: /CAenSevilla
   >  his Ph.D. under the guidance of Mark Wildon at
   > Bristol University.
 
-- [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/), and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
-  > In collaboration with Álvaro and the senior members of the group,
-  > Luis and Álvaro, both undergraduate students at the time,
-  > discovered a combinatorial proof of the Graham and Pollak formula
-  > for the determinant of the distance matrix of a tree, utilizing
+- [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/).
+  > Luis's and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) senior's thesis were the result
+  > of a collaboration with [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), and the senior members of the group.
+  >  We provided a combinatorial proof of the Graham and Pollak formula for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
-  > Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
+  > Nowdays, Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
 
 
 <H2> Conferences and Workshops:</H2>
