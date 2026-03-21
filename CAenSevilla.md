@@ -105,7 +105,7 @@ permalink: /CAenSevilla
   >  his Ph.D. under the guidance of Mark Wildon at
   > Bristol University.
 
-- [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/) and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
+- [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/), and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
   > In collaboration with Álvaro and the senior members of the group,
   > Luis and Álvaro, both undergraduate students at the time,
   > discovered a combinatorial proof of the Graham and Pollak formula
