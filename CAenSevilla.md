@@ -95,7 +95,6 @@ permalink: /CAenSevilla
   > records of trees and forests.
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
-
   > Álvaro's undergraduate senior thesis yielded two
   > publications on the study of the plethysm of
   > symmetric functions. Following his time in
