@@ -62,8 +62,8 @@ permalink: /CAenSevilla
   >  connection to FI-modules.
 
 - Luis Calvo Sánchez
-  > Luis wrote his senior on a higher dimensional version of the
-  >  Combinatorial Laplacian defined in the framework of algebraic topology. His work is based on results of Kalai, Bernardi and Klivans.
+  > Luis wrote his senior and his master thesis on a higher dimensional version of the
+  >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
   > Luis is currently writing up the results of his investigation.
 
 - Pablo Puerto
