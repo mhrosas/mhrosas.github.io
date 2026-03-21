@@ -43,7 +43,7 @@ permalink: /CAenSevilla
 > on the set of chambers of the corresponding chamber complex. As a consequence, the data of the group
 > and of only one chamber (with the formula for the LR on this chamber) completely describe these LR coefficients.
 
-<H2> Estudiantes y visitantes:</H2>
+<H2> Estudiantes:</H2>
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
 > Building on our decomposition of a Cayley tree via records,
