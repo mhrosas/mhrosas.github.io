@@ -61,6 +61,15 @@ permalink: /CAenSevilla
   > the symmetric and the linear general group, and its
   >  connection to FI-modules.
 
+- Luis Calvo Sánchez
+  > Luis wrote his senior and master thesis on our group. He is interested in the higher dimensional version of the
+  >  Combinatorial Laplacian, and is currently writing up the results of his investigation.
+
+- Pablo Puerto
+  > Pablo wrote his senior thesis focusing in some bijections related to tree records.
+  > His results appear in our preprint [The genesis sequence, tree records and endofunctions](https://arxiv.org/abs/2601.07938)
+  > Next year, he will be starting is Master Leiden as part of [ALGANT](https://algant.eu/)
+
 
 <H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
 
@@ -76,7 +85,7 @@ permalink: /CAenSevilla
   > this time, he delved into some ideas regarding the
   > study of Kronecker coefficients, which partially stemmed
   > from our group's discussions.
-  > Additionally, he wrote an article with us on a new
+  > Additionally, he discovered a new
   > symmetry exhibited by the Littlewood-Richardson
   > coefficients. Stefan currently holds a
   > postdoctoral position with the quantum information group of
