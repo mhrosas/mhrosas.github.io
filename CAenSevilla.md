@@ -72,7 +72,7 @@ permalink: /CAenSevilla
   > Next year, he will be starting is Master Leiden as part of [ALGANT](https://algant.eu/)
 
 
-<H2> Antiguos Estudiantes y estudiantes visitantes:</H2>
+<H2> Antiguos Estudiantes y visitantes:</H2>
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
   > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016. 
