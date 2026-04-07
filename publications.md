@@ -8,6 +8,10 @@ permalink: /publications
 My publications and preprints.
 
 1. The genesis sequence, tree records and endofunctions, (2026)
+    > with  Adrián Lillo\
+    > [Arxiv]([https://arxiv.org/abs/2603.28905)
+
+1. The genesis sequence, tree records and endofunctions, (2026)
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
     > [Arxiv](https://arxiv.org/abs/2601.07938)
 
