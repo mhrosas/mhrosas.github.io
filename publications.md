@@ -7,7 +7,7 @@ permalink: /publications
 
 My publications and preprints.
 
-1. The genesis sequence, tree records and endofunctions, (2026)
+1. The priority lattice, (2026)
     > with  Adrián Lillo\
     > [Arxiv]([https://arxiv.org/abs/2603.28905)
 
