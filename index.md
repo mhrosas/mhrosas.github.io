@@ -6,7 +6,7 @@
 > I am a professor of mathematics in the
 > [Algebra](http://www.algebra.us.es/)
 >  department of the [Universidad de Sevilla](https://www.us.es/).
->  I am also member of its Mathematical Insitute [IMUS](https://www.imus.us.es/),
+>  I am also member of its Mathematical Insitute, [IMUS](https://www.imus.us.es/),
 >  and part of the group of
 >  [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
