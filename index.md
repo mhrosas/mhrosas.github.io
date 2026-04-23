@@ -2,13 +2,12 @@
 > ----------------------
 > <img src='mrosas.jpg' width='180' align='right' >
 > 
-> Buenos días, welcome to my webpage.
->
-> 
+> Buenos días, welcome to my webpage. 
 > I am Mercedes Rosas, professor of mathematics in the
 > [Algebra](http://www.algebra.us.es/)
 >  department of the [Universidad de Sevilla](https://www.us.es/).
->  I am also part of the group of
+>  I am also member of its Mathematical Insitute [IMUS](https://www.imus.us.es/),
+>  and part of the group of
 >  [Algebraic Combinatorics at Sevilla](./CAenSevilla.md).
 > 
 > I wrote my PhD at [Brandeis University](https://www.brandeis.edu/mathematics/) under the supervision of
