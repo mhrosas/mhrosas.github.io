@@ -23,12 +23,12 @@
 > and Cajal fellowship. 
 >
 > 
-> 
->If you're interested in
->  delving deeper into my research, feel free to explore my
-> [Publications](./publications.md).   My main interests are
+>   My main interests are
 > combinatorial representation theory, combinatorial Hopf algebras,
-> and the theory of symmetric functions. 
+> and the theory of symmetric functions. Lately, I have been looking at the notion of records of trees,
+> parking functions, and some enumerative, biyective, and lattice-theoretical questions related to them.
+> Feel free to explore my
+> [Publications](./publications.md). 
 >
 >
 >
