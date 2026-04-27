@@ -5,7 +5,7 @@ permalink: /publications
 ---
 
 
-My publications and preprints.
+My publications and preprints. 
 
 1. The priority lattice, (2026)
     > with  Adrián Lillo\
@@ -14,8 +14,7 @@ My publications and preprints.
 1. The genesis sequence, tree records and endofunctions, (2026)
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
     > An extended abstract of this work, will appear at the conference proceedings of
-    > [GasCOM 2026](https://gascom2026.dista.uninsubria.it)\
-    > at the Electronic Proceedings in Theoretical Computer Science\
+    > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), Electronic Proceedings in Theoretical Computer Science.\
     > [Arxiv](https://arxiv.org/abs/2601.07938)
 
 
@@ -32,7 +31,7 @@ My publications and preprints.
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
-    > [Extended abstract (FPSAC)](https://fpsac2024.rub.de/)\
+    > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/)\
     > [Arxiv](https://arxiv.org/abs/2407.01227) 
 
 
