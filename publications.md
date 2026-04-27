@@ -12,8 +12,8 @@ My publications and preprints.
     > [Arxiv](https://arxiv.org/abs/2603.28905)
 
 1. The genesis sequence, tree records and endofunctions, (2026)
-    > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir
-    > An extended abstract of this work, written for [GasCOM 2026] (https://gascom2026.dista.uninsubria.it/) will appear at Electronic Proceedings in Theoretical Computer Science
+    > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
+    > An extended abstract of this work, written for [GasCOM 2026] (https://gascom2026.dista.uninsubria.it/) will appear at the conference proceedings at Electronic Proceedings in Theoretical Computer Science
     > [Arxiv](https://arxiv.org/abs/2601.07938)
 
 
