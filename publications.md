@@ -11,7 +11,7 @@ My publications and preprints.
     > with  Adrián Lillo\
     > [Arxiv](https://arxiv.org/abs/2603.28905)
 
-1. The genesis sequence, tree records and endofunctions, (2026)
+1. The genesis sequence, tree records and endofunctions, (2026), dedicated to Neil Sloane\
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
     > An extended abstract of this work will appear at
     > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), (Electronic Proceedings in Theoretical Computer Science).\
@@ -94,8 +94,7 @@ My publications and preprints.
      
 
 1. Commutation and normal ordering for operators on symmetric functions, (2019)
-     > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana\
-     > Dedicated to Ira Gessel\
+     > with  Emmanuel Briand,Peter McNamara, and Rosa Orellana, dedicated to Ira Gessel\
      > Séminaire Lotharingien de Combinatoire 80, Article B80d\
      > [SLC](https://www.mat.univie.ac.at/~slc/wpapers/s80brianmcna.pdf) and
      > [ArXiv](https://arxiv.org/abs/1509.02581)
