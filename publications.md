@@ -207,8 +207,8 @@ My publications and preprints.
      > with François Bergeron, and Riccardo Biagioli\
      > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 \
      > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541)\
-     >  Work presente at the  [FPSAC'04: Vancouver], (https://fpsac.org/confs/fpsac-2004/). 
-     > University of British Columbia, PIMS, Vancouver (Canada)
+     >  Work presente at the  [FPSAC'04: Vancouver](https://fpsac.org/confs/fpsac-2004/). 
+  
 
 
 1. Symmetric functions in noncommuting variables, (2006)
