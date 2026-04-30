@@ -252,5 +252,5 @@ My publications and preprints.
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
     > Journal of Algebraic Combinatorics 14 (2), pp. 153-173\
     > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)  and [ArXiV](https://arxiv.org/abs/math/0001084)\
-    > Work  presented at the , [FPSAC’00](https://fpsac.org/confs/fpsac-2000/), Moscow, Russia. [Extended abstract](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
+    > Work  presented at the , [FPSAC’00: Moscow](https://fpsac.org/confs/fpsac-2000/). [Extended abstract](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
   
