@@ -71,10 +71,10 @@ My publications and preprints.
 
 1.  Schur generating functions and the asymptotics of structural constants from combinatorial representation theory, (2020)
      > with Emmanuel Briand\
-     > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568\
+     > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568. [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)\
      > Work presented at [Mathematisches Forschungsinstitut Oberwolfach](https://publications.mfo.de/handle/mfo/3732),\
      >  Workshop: Kronecker, Plethysm, and Sylow Branching Coefficients and their Applications to Complexity Theory
-     > [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)
+     
      
 
 1.  The 144 symmetries of the Littlewood-Richardson coefficients of $SL_3$, (2020)
