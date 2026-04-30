@@ -72,6 +72,7 @@ My publications and preprints.
 1.  Schur generating functions and the asymptotics of structural constants from combinatorial representation theory, (2020)
      > with Emmanuel Briand\
      > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568\
+     > Work presented at [Mathematisches Forschungsinstitut Oberwolfach](https://publications.mfo.de/handle/mfo/3732), Mini-Workshop: Kronecker, Plethysm, and Sylow Branching Coefficients and their Applications to Complexity Theory
      > [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)
      
 
