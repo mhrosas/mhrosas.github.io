@@ -128,21 +128,21 @@ My publications and preprints.
     > with Federico Ardila,  Emerson León, and Mark Skandera,\
     > universo.math, v.1.
     > [ArXiV](https://arxiv.org/abs/1301.3987)\
-    > Primer Encuentro Colombiano de Combinatoria, [ECCO](https://fardila.com/SFSUColombia/ecco.html).
+    > Primer Encuentro Colombiano de Combinatoria, [ECCO 2003](https://fardila.com/SFSUColombia/ecco.html).
 
 
 1.  Tres lecciones en combinatoria algebraica, II. Funciones simétricas y teoría de representaciones, (2014)
     > with Federico Ardila, Emerson León, and Mark Skandera,\
     > universo.math, v.2. 
     > [ArXiV](https://arxiv.org/abs/1301.3988)\
-    > Primer Encuentro Colombiano de Combinatoria, [ECCO](https://fardila.com/SFSUColombia/ecco.html).
+    > Primer Encuentro Colombiano de Combinatoria, [ECCO 2003](https://fardila.com/SFSUColombia/ecco.html).
 
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos, (2014)
     > with Ardila, León, Skandera\
     > universo.math, v 3.
     > [ArXiV](https://arxiv.org/abs/1301.3989)\
-    > Primer Encuentro Colombiano de Combinatoria, [ECCO](https://fardila.com/SFSUColombia/ecco.html).
+    > Primer Encuentro Colombiano de Combinatoria, [ECCO 2003](https://fardila.com/SFSUColombia/ecco.html).
 
 1. The stability of the Kronecker product of Schur functions, (2011)
      > with Emmanuel Briand and Rosa Orellana\
