@@ -242,15 +242,14 @@ My publications and preprints.
     > and [IdUS](https://idus.us.es/handle/11441/41678)
     
 
-1. MacMahon symmetric functions, the partition lattice, and Young tableaux, (2001)
+1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
+    > Journal of Algebraic Combinatorics 14 (2), pp. 153-173\
+    > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)  and [ArXiV](https://arxiv.org/abs/math/0001084)\
+    > Work  presented at the , [FPSAC’00: Moscow](https://fpsac.org/confs/fpsac-2000/). [Extended abstract](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
+
+  1. MacMahon symmetric functions, the partition lattice, and Young tableaux, (2001)
     > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340\
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
     > and [IdUS](https://idus.us.es/handle/11441/41678)\
     >  Work  presented at the  [FPSAC'1999: Barcelona](https://fpsac.org/confs/fpsac-1999/)
     
-
-1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
-    > Journal of Algebraic Combinatorics 14 (2), pp. 153-173\
-    > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)  and [ArXiV](https://arxiv.org/abs/math/0001084)\
-    > Work  presented at the , [FPSAC’00: Moscow](https://fpsac.org/confs/fpsac-2000/). [Extended abstract](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
-  
