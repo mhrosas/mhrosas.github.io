@@ -155,9 +155,9 @@ My publications and preprints.
 1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes, (2010)
      > with Emmanuel Briand, and Rosa Orellana\
      > Discrete Mathematics and Theoretical Computer Science\
-     > [ArXiV](https://arxiv.org/abs/0812.0861)\
+     > [ArXiV](https://arxiv.org/abs/0812.0861) and [extended abstart](https://dmtcs.episciences.org/volume/view/id/256)\
      > Work presented at the  [FPSAC'09: Linz (Austria)](https://fpsac.org/confs/fpsac-2009/)
-     > [extended abstart](https://dmtcs.episciences.org/volume/view/id/256)
+     
      
 
 1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH, (2009).
