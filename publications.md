@@ -161,7 +161,7 @@ My publications and preprints.
      
 
 1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH, (2009).
-     > with Emmanuel Briand, Rosa Orellana and with an appendix by professor Ketan Mulmuley\\
+     > with Emmanuel Briand, Rosa Orellana. Includes an appendix written by professor [Ketan Mulmuley](https://cs.uchicago.edu/people/ketan-mulmuley/)\\
      > Computational Complexity, Volume 18. 4\
      > [Arxiv](https://arxiv.org/abs/0810.3163)
      
