@@ -7,8 +7,8 @@ permalink: /publications
 
 My publications and preprints. 
 
-1. The priority lattice, (2026)
-   > A remarkable lattice whose maximal chains are indexed by parking functions.
+1. The priority lattice, (2026), a novel lattice whose maximal chains are indexed by parking functions.
+   > 
     > with  Adrián Lillo\
     > [Arxiv](https://arxiv.org/abs/2603.28905)
 
