@@ -31,7 +31,7 @@ My publications and preprints.
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
-    > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/)\
+    > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/) and 
     > [Arxiv](https://arxiv.org/abs/2407.01227)\
     > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/) ([extended abstract](https://fpsac2024.rub.de/extended-abstracts/))
 
