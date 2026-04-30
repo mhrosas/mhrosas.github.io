@@ -120,9 +120,9 @@ My publications and preprints.
      > with E. Briand and R. Orellana\
      > Electronic J. of Combinatorics, vol. 22, 3\
      > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i3p15)
-     > [ArXiv](https://arxiv.org/abs/1410.8017)\
+     > [ArXiv](https://arxiv.org/abs/1410.8017) and  [extended abstract](https://dmtcs.episciences.org/volume/view/id/285)\
      > Work presented at [FPSAC'15: Daejeon (Korea)](https://fpsac.org/confs/fpsac-2015/)
-     > [extended abstract](https://dmtcs.episciences.org/volume/view/id/285)
+     >
      
 1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas, (2014)
     > with Federico Ardila,  Emerson León, and Mark Skandera,\
