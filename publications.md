@@ -253,3 +253,4 @@ My publications and preprints.
      > and [IdUS](https://idus.us.es/handle/11441/41678)\
      >  Work  presented at the  [FPSAC'1999: Barcelona (Spain)](https://fpsac.org/confs/fpsac-1999/)
     
+Note: Works have been  presented at FPSAC sometimes by myself, other times by some colleague.
