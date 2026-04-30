@@ -13,7 +13,7 @@ My publications and preprints.
 
 1. The genesis sequence, tree records and endofunctions, (2026)
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
-    > An extended abstract of this work, will appear at the conference proceedings of
+    > An extended abstract of this work, will appear at
     > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), (Electronic Proceedings in Theoretical Computer Science).\
     > [Arxiv](https://arxiv.org/abs/2601.07938)
 
@@ -119,34 +119,34 @@ My publications and preprints.
      > with E. Briand and R. Orellana\
      > Electronic J. of Combinatorics, vol. 22, 3\
      > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i3p15)
-     > [ArXiv](https://arxiv.org/abs/1410.8017)
+     > [ArXiv](https://arxiv.org/abs/1410.8017)\
      > Work presented at [FPSAC'15: Daejeon](https://fpsac.org/confs/fpsac-2015/)
      > [extended abstract](https://dmtcs.episciences.org/volume/view/id/285](https://dmtcs.episciences.org/2464)
      
 1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas, (2014)
     > with Federico Ardila,  Emerson León, and Mark Skandera,\
     > universo.math, v.1. \
-    > [ArXiV](https://arxiv.org/abs/1301.3987)
+    > [ArXiV](https://arxiv.org/abs/1301.3987)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1.  Tres lecciones en combinatoria algebraica, II. Funciones simétricas y teoría de representaciones, (2014)
     > with Federico Ardila, Emerson León, and Mark Skandera,\
     > universo.math, v.2. \
-    > [ArXiV](https://arxiv.org/abs/1301.3988)
+    > [ArXiV](https://arxiv.org/abs/1301.3988)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos, (2014)
     > with Ardila, León, Skandera\
     > universo.math, v 3\
-    > [ArXiV](https://arxiv.org/abs/1301.3989)
+    > [ArXiV](https://arxiv.org/abs/1301.3989)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 1. The stability of the Kronecker product of Schur functions, (2011)
      > with Emmanuel Briand and Rosa Orellana\
      > Journal of Algebra. 331, 11-27\
-     > [ArXiV](https://arxiv.org/abs/0907.4652)
+     > [ArXiV](https://arxiv.org/abs/0907.4652)\
      > Work presented at the [FPSAC'10: San Francisco](https://fpsac.org/confs/fpsac-2010/) San Francisco (USA)
      > [extended abstart](https://dmtcs.episciences.org/volume/view/id/259))
 
@@ -154,7 +154,7 @@ My publications and preprints.
 1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes, (2010)
      > with Emmanuel Briand, and Rosa Orellana\
      > Discrete Mathematics and Theoretical Computer Science\
-     > [ArXiV](https://arxiv.org/abs/0812.0861)
+     > [ArXiV](https://arxiv.org/abs/0812.0861)\
      > Work presented at the  [FPSAC'09: Linz](https://fpsac.org/confs/fpsac-2009/)
      > [extended abstart](https://dmtcs.episciences.org/volume/view/id/256)
      
@@ -206,7 +206,7 @@ My publications and preprints.
 1. Inequalities between Littlewood-Richardson coefficients, (2006)
      > with François Bergeron, and Riccardo Biagioli\
      > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 \
-     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541)
+     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541)\
      >  Work presente at the  [FPSAC'04: Vancouver], (https://fpsac.org/confs/fpsac-2004/). 
      > University of British Columbia, PIMS, Vancouver (Canada)
 
@@ -215,7 +215,7 @@ My publications and preprints.
      > with Bruce Sagan\ 
      > Transactions of the American Mathematical Society 358, no. 1, 215--232\
      > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/)
-     > and [ArXiV](https://arxiv.org/abs/math/0208168)
+     > and [ArXiV](https://arxiv.org/abs/math/0208168)\
      > Work  presented at the  [FPSAC'2003: Linköping](https://fpsac.org/confs/fpsac-2003/).
      
 
