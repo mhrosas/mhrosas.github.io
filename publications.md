@@ -32,7 +32,9 @@ My publications and preprints.
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
     > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/)\
-    > [Arxiv](https://arxiv.org/abs/2407.01227) 
+    > [Arxiv](https://arxiv.org/abs/2407.01227)\
+    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/)
+    > [extended abstract](https://fpsac2024.rub.de/extended-abstracts/)
 
 
 1. All linear symmetries of the tensor multiplicities of SU(3), (2024)
@@ -101,7 +103,9 @@ My publications and preprints.
 1. On the growth of Kronecker coefficients, (2017)
      > with Emmanuel Briand and Rattan, Amarpreet\
      > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. \
-     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348) 
+     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348)
+     > Work presented at [FPSAC'17: London](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/),
+     > [Extended abstract](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/)
      
 
 1.  Combinatorics on a family of reduced Kronecker coefficients, (2015)
@@ -116,31 +120,34 @@ My publications and preprints.
      > Electronic J. of Combinatorics, vol. 22, 3\
      > [EJC](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i3p15)
      > [ArXiv](https://arxiv.org/abs/1410.8017)
+     > Work presented at [FPSAC'15: Daejeon](https://fpsac.org/confs/fpsac-2015/)
+     > [extended abstract](https://dmtcs.episciences.org/volume/view/id/285](https://dmtcs.episciences.org/2464)
      
 1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas, (2014)
     > with Federico Ardila,  Emerson León, and Mark Skandera,\
     > universo.math, v.1. \
     > [ArXiV](https://arxiv.org/abs/1301.3987)
+    > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1.  Tres lecciones en combinatoria algebraica, II. Funciones simétricas y teoría de representaciones, (2014)
     > with Federico Ardila, Emerson León, and Mark Skandera,\
     > universo.math, v.2. \
     > [ArXiV](https://arxiv.org/abs/1301.3988)
+    > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos, (2014)
     > with Ardila, León, Skandera\
     > universo.math, v 3\
     > [ArXiV](https://arxiv.org/abs/1301.3989)
-    > Part of the very firstEncuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
+    > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 1. The stability of the Kronecker product of Schur functions, (2011)
      > with Emmanuel Briand and Rosa Orellana\
      > Journal of Algebra. 331, 11-27\
      > [ArXiV](https://arxiv.org/abs/0907.4652)
-     > Work presented at the FPSAC'10: San Francisco, The 22nd international conference on Formal Power Series and Algebraic Combinatorics
-     > San Francisco State University, San Francisco (USA)
+     > Work presented at the [FPSAC'10: San Francisco](https://fpsac.org/confs/fpsac-2010/) San Francisco (USA)
      > [extended abstart](https://dmtcs.episciences.org/volume/view/id/259))
 
 
@@ -148,7 +155,7 @@ My publications and preprints.
      > with Emmanuel Briand, and Rosa Orellana\
      > Discrete Mathematics and Theoretical Computer Science\
      > [ArXiV](https://arxiv.org/abs/0812.0861)
-     > Work presented at the 21st international conference on Formal Power Series and Algebraic Combinatorics, RISC, Linz (Austria). [FPSAC'09: Linz](https://fpsac.org/confs/fpsac-2009/)
+     > Work presented at the  [FPSAC'09: Linz](https://fpsac.org/confs/fpsac-2009/)
      > [extended abstart](https://dmtcs.episciences.org/volume/view/id/256)
      
 
@@ -200,7 +207,7 @@ My publications and preprints.
      > with François Bergeron, and Riccardo Biagioli\
      > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 \
      > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541)
-     >  Work presente at the 16th international conference on Formal Power Series and Algebraic Combinatorics, [FPSAC'04: Vancouver], (https://fpsac.org/confs/fpsac-2004/). 
+     >  Work presente at the  [FPSAC'04: Vancouver], (https://fpsac.org/confs/fpsac-2004/). 
      > University of British Columbia, PIMS, Vancouver (Canada)
 
 
@@ -209,7 +216,7 @@ My publications and preprints.
      > Transactions of the American Mathematical Society 358, no. 1, 215--232\
      > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/)
      > and [ArXiV](https://arxiv.org/abs/math/0208168)
-     > Work  presented at the 15th international conference on Formal Power Series and Algebraic Combinatorics Linköping (Sweden). [FPSAC'2003: Linköping](https://fpsac.org/confs/fpsac-2003/).
+     > Work  presented at the  [FPSAC'2003: Linköping](https://fpsac.org/confs/fpsac-2003/).
      
 
 1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions, (2003)
@@ -239,12 +246,12 @@ My publications and preprints.
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
     > and [IdUS](https://idus.us.es/handle/11441/41678)
     > The 11th international conference on
-    >  Work  presented at the Formal Power Series and Algebraic Combinatorics, [FPSAC'1999: Barcelona](https://fpsac.org/confs/fpsac-1999/)
-    >Polytechnical University of Catalonia, Barcelona (Spain).
+    >  Work  presented at the  [FPSAC'1999: Barcelona](https://fpsac.org/confs/fpsac-1999/)
+    > Barcelona (Spain).
     
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
     > Journal of Algebraic Combinatorics 14 (2), pp. 153-173\
     > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)  and [ArXiV](https://arxiv.org/abs/math/0001084)\
-    > Work  presented at the 12th International Conference, [FPSAC’00](https://fpsac.org/confs/fpsac-2000/), Moscow, Russia, June 2000. Extended abstract appeared at [Springer](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
+    > Work  presented at the , [FPSAC’00](https://fpsac.org/confs/fpsac-2000/), Moscow, Russia. Extended abstract appeared at [Springer](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
   
