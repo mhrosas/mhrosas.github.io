@@ -133,17 +133,23 @@ My publications and preprints.
     > with Ardila, León, Skandera\
     > universo.math, v 3\
     > [ArXiV](https://arxiv.org/abs/1301.3989)
+    > Part of the very firstEncuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 1. The stability of the Kronecker product of Schur functions, (2011)
      > with Emmanuel Briand and Rosa Orellana\
      > Journal of Algebra. 331, 11-27\
      > [ArXiV](https://arxiv.org/abs/0907.4652)
+     > Work presented at the FPSAC'10: San Francisco, The 22nd international conference on Formal Power Series and Algebraic Combinatorics
+     > San Francisco State University, San Francisco (USA)
+     > [extended abstart](https://dmtcs.episciences.org/volume/view/id/259))
 
 
 1. Quasipolynomial formulas for the Kronecker coefficients indexed by two two-row shapes, (2010)
      > with Emmanuel Briand, and Rosa Orellana\
      > Discrete Mathematics and Theoretical Computer Science\
      > [ArXiV](https://arxiv.org/abs/0812.0861)
+     > Work presented at FPSAC'09: Linzm The 21st international conference on Formal Power Series and Algebraic Combinatorics, RISC, Linz (Austria).
+     > [extended abstart](https://dmtcs.episciences.org/volume/view/id/256)
      
 
 1.  Reduced Kronecker coefficients and counter-examples to Mulmuley's saturation conjecture SH, (2009).
@@ -193,14 +199,17 @@ My publications and preprints.
 1. Inequalities between Littlewood-Richardson coefficients, (2006)
      > with François Bergeron, and Riccardo Biagioli\
      > Journal of Combinatorial Theory, Series A. Volume 113, Issue 4 \
-     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541) 
+     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316505000956)  and [ArXiV](https://arxiv.org/abs/math/0403541)
+     >  Work presente at the FPSAC'04: Vancouver, The 16th international conference on Formal Power Series and Algebraic Combinatorics
+     > University of British Columbia, PIMS, Vancouver (Canada)
 
 
 1. Symmetric functions in noncommuting variables, (2006)
      > with Bruce Sagan\ 
      > Transactions of the American Mathematical Society 358, no. 1, 215--232\
      > [TAMS](https://www.ams.org/journals/tran/2006-358-01/S0002-9947-04-03623-2/)
-     > and [ArXiV](https://arxiv.org/abs/math/0208168) 
+     > and [ArXiV](https://arxiv.org/abs/math/0208168)
+     > Work  presented at the The 15th international conference on Formal Power Series and Algebraic Combinatorics Linköping (Sweden)
      
 
 1. An overview of the plethystic Hopf algebra of MacMahon symmetric functions, (2003)
@@ -229,10 +238,13 @@ My publications and preprints.
     > Journal of Combinatorial Theory. Series A. 96 No. 2, pp. 326-340\
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
     > and [IdUS](https://idus.us.es/handle/11441/41678)
+    > The 11th international conference on
+    >  Work  presented at the Formal Power Series and Algebraic Combinatorics, FPSAC'1999.
+    >Polytechnical University of Catalonia, Barcelona (Spain).
     
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
     > Journal of Algebraic Combinatorics 14 (2), pp. 153-173\
     > [JofAC](https://link.springer.com/article/10.1023/A:1011942029902)  and [ArXiV](https://arxiv.org/abs/math/0001084)\
-    > Work  presented at 12th International Conference, FPSAC’00, Moscow, Russia, June 2000. Extended abstract appeared at [Springer](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
+    > Work  presented at the 12th International Conference, FPSAC’00, Moscow, Russia, June 2000. Extended abstract appeared at [Springer](https://link.springer.com/chapter/10.1007/978-3-662-04166-6_31).
   
