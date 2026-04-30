@@ -33,8 +33,7 @@ My publications and preprints.
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
     > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/)\
     > [Arxiv](https://arxiv.org/abs/2407.01227)\
-    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/)\
-    > [extended abstract](https://fpsac2024.rub.de/extended-abstracts/)
+    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/) ([extended abstract](https://fpsac2024.rub.de/extended-abstracts/))
 
 
 1. All linear symmetries of the tensor multiplicities of SU(3), (2024)
