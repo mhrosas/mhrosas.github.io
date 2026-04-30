@@ -16,6 +16,7 @@ My publications and preprints.
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
     > This work will be presented
     > [GasCOM 2026](https://gascom2026.dista.uninsubria.it)\
+    > An extended abstract will appear at Electronic Proceedings in Theoretical Computer Science.
     > [Arxiv](https://arxiv.org/abs/2601.07938)
 
 
