@@ -33,7 +33,7 @@ My publications and preprints.
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
     > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/) and 
     > [Arxiv](https://arxiv.org/abs/2407.01227)\
-    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/) ([extended abstract](https://fpsac2024.rub.de/extended-abstracts/))
+    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/).
 
 
 1. All linear symmetries of the tensor multiplicities of SU(3), (2024)
@@ -72,7 +72,8 @@ My publications and preprints.
 1.  Schur generating functions and the asymptotics of structural constants from combinatorial representation theory, (2020)
      > with Emmanuel Briand\
      > Oberwolfach Reports - Volume 17, Issue 1, pp. 517–568\
-     > Work presented at [Mathematisches Forschungsinstitut Oberwolfach](https://publications.mfo.de/handle/mfo/3732), Mini-Workshop: Kronecker, Plethysm, and Sylow Branching Coefficients and their Applications to Complexity Theory
+     > Work presented at [Mathematisches Forschungsinstitut Oberwolfach](https://publications.mfo.de/handle/mfo/3732),\
+     >  Workshop: Kronecker, Plethysm, and Sylow Branching Coefficients and their Applications to Complexity Theory
      > [MFO](https://publications.mfo.de/bitstream/handle/mfo/3732/OWR_2020_09.pdf)
      
 
