@@ -126,21 +126,21 @@ My publications and preprints.
      
 1. Tres lecciones en combinatoria algebraica, I. Matrices totalmente negativas y funciones simétricas, (2014)
     > with Federico Ardila,  Emerson León, and Mark Skandera,\
-    > universo.math, v.1. \
+    > universo.math, v.1.
     > [ArXiV](https://arxiv.org/abs/1301.3987)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1.  Tres lecciones en combinatoria algebraica, II. Funciones simétricas y teoría de representaciones, (2014)
     > with Federico Ardila, Emerson León, and Mark Skandera,\
-    > universo.math, v.2. \
+    > universo.math, v.2. 
     > [ArXiV](https://arxiv.org/abs/1301.3988)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
 
 1. Tres lecciones en combinatoria algebraica, III. Arreglos de hiperplanos, (2014)
     > with Ardila, León, Skandera\
-    > universo.math, v 3\
+    > universo.math, v 3.
     > [ArXiV](https://arxiv.org/abs/1301.3989)\
     > Encuentro Colombiano de Combinatoria, [ECCO](https://sites.google.com/site/carobenedettimath/cococo)
 
