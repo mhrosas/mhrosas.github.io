@@ -246,7 +246,6 @@ My publications and preprints.
     > [JCTA](https://www.sciencedirect.com/science/article/pii/S0097316501931863?via%3Dihub)
     > and [IdUS](https://idus.us.es/handle/11441/41678)\
     >  Work  presented at the  [FPSAC'1999: Barcelona](https://fpsac.org/confs/fpsac-1999/)
-    > Barcelona (Spain).
     
 
 1. The Kronecker product of Schur functions indexed by two-rwo shapes or hook shapes, (2001)
