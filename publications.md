@@ -102,7 +102,7 @@ My publications and preprints.
      
 1. On the growth of Kronecker coefficients, (2017)
      > with Emmanuel Briand and Rattan, Amarpreet\
-     > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. [Extended abstract](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/)\
+     > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. [Extended abstract](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/),
      > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348)\
      > Work presented at [FPSAC'17: London](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/).
      
