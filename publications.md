@@ -33,7 +33,7 @@ My publications and preprints.
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
     > [Extended abstract (FPSAC 2024)](https://fpsac2024.rub.de/)\
     > [Arxiv](https://arxiv.org/abs/2407.01227)\
-    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/)
+    > Work presented at [FPSAC'24: Bochum](https://fpsac.org/confs/fpsac-2024/)\
     > [extended abstract](https://fpsac2024.rub.de/extended-abstracts/)
 
 
@@ -103,8 +103,8 @@ My publications and preprints.
 1. On the growth of Kronecker coefficients, (2017)
      > with Emmanuel Briand and Rattan, Amarpreet\
      > Sém. Lothar. Combin. 78B, Art. 70, 12 pp. \
-     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348)
-     > Work presented at [FPSAC'17: London](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/),
+     > Extended version [Arxiv](https://arxiv.org/abs/1607.02887), Appendices, [Arxiv](https://arxiv.org/abs/1611.07348)\
+     > Work presented at [FPSAC'17: London](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/),\
      > [Extended abstract](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/)
      
 
