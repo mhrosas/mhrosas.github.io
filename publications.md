@@ -14,7 +14,8 @@ My publications and preprints.
 
 1. The genesis sequence, tree records and endofunctions, (2026), dedicated to Neil Sloane\
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
-    > Full version: [Arxiv](https://arxiv.org/abs/2601.07938). Extended abstract: [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?GASCom2026.11)\
+    > Full version: [Arxiv](https://arxiv.org/abs/2601.07938). \
+    > Extended abstract: [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?GASCom2026.11)\
     > Work presented at
     > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), Italia. 
     
