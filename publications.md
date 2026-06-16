@@ -16,7 +16,7 @@ My publications and preprints.
     > with Enrica Duchi, Adrián Lillo, Pablo Puerto, and Stefan Trandafir\
     > [Arxiv](https://arxiv.org/abs/2601.07938)\
     > Work presented at
-    > [GasCOM 2026](https://gascom2026.dista.uninsubria.it). 
+    > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), Italia. 
     
   
 
