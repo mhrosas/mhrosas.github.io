@@ -23,9 +23,10 @@ My publications and preprints.
 
 
 1. On the enumeration of records of rooted trees and rooted forests, (2025)
+    > To appear at Discrete Mathematics, 2026+.
     > with Adrián Lillo and Stefan Trandafir.\
     > [Arxiv](https://arxiv.org/abs/2510.12536)\
-    > To appear at Discrete Mathematics, 2026+.
+ 
 
 
 
@@ -36,6 +37,7 @@ My publications and preprints.
 
 1. Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree, (2024)
     > with Emmanuel Briand, Luis Esquivias-Quintero, Álvaro Gutiérrez, and Adrián Lillo.\
+    > To appear at Forum of Mathematics, Sigma, 2026+\
     > Full version: [Arxiv](https://arxiv.org/abs/2407.01227) \
     > Extended abstract: [SLC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/FPSAC2024) \
     > Work presented at [FPSAC'24: Bochum (Germany)](https://fpsac.org/confs/fpsac-2024/).
