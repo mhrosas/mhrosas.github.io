@@ -24,7 +24,8 @@ My publications and preprints.
 
 1. On the enumeration of records of rooted trees and rooted forests, (2025)
     > with Adrián Lillo and Stefan Trandafir.\
-    > [Arxiv](https://arxiv.org/abs/2510.12536)
+    > [Arxiv](https://arxiv.org/abs/2510.12536)\
+    > To appear at Discrete Mathematics, 2026+.
 
 
 
