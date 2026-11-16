@@ -30,7 +30,34 @@ permalink: /CAenSevilla
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/)
 
+- [Aram Dermenjian](https://dermenjian.com/)
+
 - [Mercedes Rosas](https://mhrosas.github.io/)
+
+<H2> Estudiantes:</H2>
+
+-  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
+> Building on our decomposition of a Cayley tree via records,
+> closely related to the blob encoding of Kreweras, Moszkowski,
+> and Picciotto, we define parking functions anew and construct
+>  a record-preserving bijection with Cayley trees. This leads
+>  to an equidistribution of six statistics on both structures.
+> More recently, we have been looking at the record generating functions for trees and forests.
+> A Maria de Maetzu grant funds his PhD research.
+
+
+-  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
+  > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
+  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
+  > the symmetric and the linear general group, and its
+  >  connection to FI-modules.
+
+- Luis Calvo Sánchez
+  > Luis wrote his senior and his master thesis on a higher dimensional version of the
+  >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
+  > Luis is currently writing up the results of his investigation.
+
+
 
 <H2> Experimental mathematics:</H2>
 
@@ -57,33 +84,7 @@ permalink: /CAenSevilla
 > on the set of chambers of the corresponding chamber complex. As a consequence, the data of the group
 > and of only one chamber (with the formula for the LR on this chamber) completely describe these LR coefficients.
 
-<H2> Estudiantes:</H2>
 
--  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
-> Building on our decomposition of a Cayley tree via records,
-> closely related to the blob encoding of Kreweras, Moszkowski,
-> and Picciotto, we define parking functions anew and construct
->  a record-preserving bijection with Cayley trees. This leads
->  to an equidistribution of six statistics on both structures.
-> More recently, we have been looking at the record generating functions for trees and forests.
-> A Maria de Maetzu grant funds his PhD research.
-
-
--  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
-  > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
-  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
-  > the symmetric and the linear general group, and its
-  >  connection to FI-modules.
-
-- Luis Calvo Sánchez
-  > Luis wrote his senior and his master thesis on a higher dimensional version of the
-  >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
-  > Luis is currently writing up the results of his investigation.
-
-- Pablo Puerto
-  > Pablo wrote his senior thesis focusing in some bijections related to tree records.
-  > His results appear in our preprint [The genesis sequence, tree records and endofunctions](https://arxiv.org/abs/2601.07938)
-  > Next year, he will be starting is Master Leiden as part of [ALGANT](https://algant.eu/)
 
 
 <H2> Antiguos Estudiantes y visitantes:</H2>
@@ -124,6 +125,18 @@ permalink: /CAenSevilla
   >  We provided a combinatorial proof of the Graham and Pollak formula for the determinant of the distance matrix of a tree, utilizing
   >  the Gessel-Viennot involution.
   > Nowdays, Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
+
+  - Pablo Puerto
+  > Pablo wrote his senior thesis (Récords en árboles y endofunciones)[https://idus.us.es/server/api/core/bitstreams/5792c296-7cb6-4b47-8c16-9e7bb8fd7300/content]
+  > focusing in some bijections related to tree  records.
+  > His results appear in our preprint [The genesis sequence, tree records and endofunctions](https://arxiv.org/abs/2601.07938)
+  > Pablo is a Master Leiden as part of [ALGANT](https://algant.eu/)
+
+  - [Alonso Díaz Uña](https://www.linkedin.com/in/alonso-d%C3%ADaz-u%C3%B1a-b90889319/)
+  > Alonso's  senior tesis [Approaching non-commutative harmonic analysis and Lie groups through the spherical harmonics](https://idus.us.es/items/31cb7dc1-ad4d-4fe3-b0b5-1b28a01e91ea)
+  > use spherical harmonics to illustrate the role of representation theory in non-commutative harmonic analysis.
+  > Alonso is now of the MASt in Mathematics (Theoretical Physics) at Cambridge with a La Caixa's scholarship. 
+
 
 
 <H2> Conferences and Workshops:</H2>
