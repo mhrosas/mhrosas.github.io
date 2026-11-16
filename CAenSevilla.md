@@ -28,13 +28,11 @@ permalink: /CAenSevilla
 
 <H2> Miembros:</H2>
 
-- [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/)
+- [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/) 
 
 - [Aram Dermenjian](https://dermenjian.com/)
 
 - [Mercedes Rosas](https://mhrosas.github.io/)
-
-<H2> Estudiantes:</H2>
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
 > Building on our decomposition of a Cayley tree via records,
@@ -90,52 +88,52 @@ permalink: /CAenSevilla
 <H2> Antiguos Estudiantes y visitantes:</H2>
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
-  > Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016. 
-  > Laura, a rising star in the area of Algebraic Combinatorics,  currently hold a tenure track position at North Carolina State Univesity.
+> Laura finished her PhD thesis titled "Stability in the combinatorics of representation theory" in 2016. 
+> Laura, a rising star in the area of Algebraic Combinatorics,  currently hold a tenure track position at North Carolina State Univesity.
 
   
   
 - [Stefan Trandafir](https://sites.google.com/view/stefan-trandafir)
-  > Stefan was a frecuent visitor to the group during
-  >  his PhD at Simon Fraser University in Vacouver. During
-  > this time, he delved into some ideas regarding the
-  > study of Kronecker coefficients, which partially stemmed
-  > from our group's discussions.
-  > Additionally, he discovered a new
-  > symmetry exhibited by the Littlewood-Richardson
-  > coefficients. Afterwards, Stefan came back to Sevilla for 
-  > postdoctoral position with the quantum information group of
-  >  Adan Cabello (Sevilla).
-  >  During this second period, Stefan collaborated with us on questions related to
-  > records of trees and forests.
+> Stefan was a frecuent visitor to the group during
+>  his PhD at Simon Fraser University in Vacouver. During
+> this time, he delved into some ideas regarding the
+> study of Kronecker coefficients, which partially stemmed
+> from our group's discussions.
+> Additionally, he discovered a new
+> symmetry exhibited by the Littlewood-Richardson
+> coefficients. Afterwards, Stefan came back to Sevilla for 
+> postdoctoral position with the quantum information group of
+>  Adan Cabello (Sevilla).
+>  During this second period, Stefan collaborated with us on questions related to
+> records of trees and forests.
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
-  > Álvaro's undergraduate senior thesis yielded two
-  > publications on the study of the plethysm of
-  > symmetric functions. Following his time in
-  >  Sevilla, Álvaro authored a Master's thesis at the
-  > University of Bonn under the supervision of Catharina
-  > Stroppel and Jacob Matherne. Presently, Álvaro is pursuing
-  >  his Ph.D. under the guidance of Mark Wildon at
-  > Bristol University.
+> Álvaro's undergraduate senior thesis yielded two
+> publications on the study of the plethysm of
+> symmetric functions. Following his time in
+>  Sevilla, Álvaro authored a Master's thesis at the
+> University of Bonn under the supervision of Catharina
+> Stroppel and Jacob Matherne. Presently, Álvaro is pursuing
+>  his Ph.D. under the guidance of Mark Wildon at
+> Bristol University.
 
 - [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/).
-  > Luis's and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) senior's thesis were the result
-  > of a collaboration with [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), and the senior members of the group.
-  >  We provided a combinatorial proof of the Graham and Pollak formula for the determinant of the distance matrix of a tree, utilizing
-  >  the Gessel-Viennot involution.
-  > Nowdays, Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
+> Luis's and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) senior's thesis were the result
+> of a collaboration with [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), and the senior members of the group.
+>  We provided a combinatorial proof of the Graham and Pollak formula for the determinant of the distance matrix of a tree, utilizing
+>  the Gessel-Viennot involution.
+> Nowdays, Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
 
-  - Pablo Puerto
-  > Pablo wrote his senior thesis (Récords en árboles y endofunciones)[https://idus.us.es/server/api/core/bitstreams/5792c296-7cb6-4b47-8c16-9e7bb8fd7300/content]
-  > focusing in some bijections related to tree  records.
-  > His results appear in our preprint [The genesis sequence, tree records and endofunctions](https://arxiv.org/abs/2601.07938)
-  > Pablo is a Master Leiden as part of [ALGANT](https://algant.eu/)
+- Pablo Puerto
+> Pablo wrote his senior thesis (Récords en árboles y endofunciones)[https://idus.us.es/server/api/core/bitstreams/5792c296-7cb6-4b47-8c16-9e7bb8fd7300/content]
+> focusing in some bijections related to tree  records.
+> His results appear in our preprint [The genesis sequence, tree records and endofunctions](https://arxiv.org/abs/2601.07938)
+> Pablo is a Master Leiden as part of [ALGANT](https://algant.eu/)
 
-  - [Alonso Díaz Uña](https://www.linkedin.com/in/alonso-d%C3%ADaz-u%C3%B1a-b90889319/)
-  > Alonso's  senior tesis [Approaching non-commutative harmonic analysis and Lie groups through the spherical harmonics](https://idus.us.es/items/31cb7dc1-ad4d-4fe3-b0b5-1b28a01e91ea)
-  > use spherical harmonics to illustrate the role of representation theory in non-commutative harmonic analysis.
-  > Alonso is now of the MASt in Mathematics (Theoretical Physics) at Cambridge with a La Caixa's scholarship. 
+- [Alonso Díaz Uña](https://www.linkedin.com/in/alonso-d%C3%ADaz-u%C3%B1a-b90889319/)
+> Alonso's  senior tesis [Approaching non-commutative harmonic analysis and Lie groups through the spherical harmonics](https://idus.us.es/items/31cb7dc1-ad4d-4fe3-b0b5-1b28a01e91ea)
+> use spherical harmonics to illustrate the role of representation theory in non-commutative harmonic analysis.
+> Alonso is now of the MASt in Mathematics (Theoretical Physics) at Cambridge with a La Caixa's scholarship. 
 
 
 
