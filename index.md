@@ -1,3 +1,16 @@
+<p><div style="background:#1f4e8c; border-radius:6px; padding:10px 14px; margin-bottom:20px; text-align:center; font-size:0.95em;">
+  <a href="./publications.html" style="color:#ffffff; text-decoration:none;">Publications</a>
+  <span style="color:#9fbbe0;">&nbsp;|&nbsp;</span>
+  <a href="./CAenSevilla.html" style="color:#ffffff; text-decoration:none;">Algebraic Combinatorics at Sevilla</a>
+  <span style="color:#9fbbe0;">&nbsp;|&nbsp;</span>
+  <a href="./divulgacion.html" style="color:#ffffff; text-decoration:none;">Divulgación</a>
+  <span style="color:#9fbbe0;">&nbsp;|&nbsp;</span>
+  <a href="./coautores.html" style="color:#ffffff; text-decoration:none;">Collaborators</a>
+  <span style="color:#9fbbe0;">&nbsp;|&nbsp;</span>
+  <a href="https://personal.us.es/mrosas/elalfilmatematico/index.html" style="color:#ffffff; text-decoration:none;">Alfil Matemático</a>
+  <span style="color:#9fbbe0;">&nbsp;|&nbsp;</span>
+  <a href="https://ev.us.es/" style="color:#ffffff; text-decoration:none;">Docencia</a>
+</div></p>
 
 > ----------------------
 > <img src='mrosas.jpg' width='180' align='right' >
@@ -70,13 +83,4 @@
 > para estudiantes del Master de Matemáticas. 
 >
 > 
-> ---------------------- 
-
-
-
-
-
-
-
-
- 
+> ----------------------
