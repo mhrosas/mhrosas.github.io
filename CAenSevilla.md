@@ -29,12 +29,15 @@ permalink: /CAenSevilla
 <H2> Miembros:</H2>
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/) 
+> Profesor, \
 > Universidad de Sevilla, Departamento de Matemáticas Aplicadas 1.
 
 - [Aram Dermenjian](https://dermenjian.com/)
+> Profesor,\
 > Universidad Loyola, Sevilla.
 
 - [Mercedes Rosas](https://mhrosas.github.io/)
+> Profesora,\
 > Universidad de Sevilla, Departamento de Álgebra.
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
