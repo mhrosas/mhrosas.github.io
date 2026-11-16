@@ -26,7 +26,7 @@ permalink: /CAenSevilla
 
 
 
-<H2> Miembros:</H2>
+<H2> Participantes:</H2>
 
 - [Emmanuel Briand](http://emmanuel.jean.briand.free.fr/) 
 > Profesor, \
