@@ -25,6 +25,9 @@ permalink: /CAenSevilla
 <H1> Combinatoria Algebraica en Sevilla </H1>
 
 
+<H2> Grupo de Trabajo:</H2>
+
+- Este grupo de trabajo se reune todos los jueves en un seminario informal sobre temas recientes en Combinatoria Algebraica.
 
 <H2> Participantes:</H2>
 
@@ -60,6 +63,9 @@ permalink: /CAenSevilla
 > Luis wrote his senior and his master thesis on a higher dimensional version of the
 >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
 > Luis is currently writing up the results of his investigation.
+
+- Giovanni Critelli
+> Giovanni is starting his senior tesis with us.  
 
 
 
