@@ -45,15 +45,15 @@ permalink: /CAenSevilla
 
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
-  > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
-  > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
-  > the symmetric and the linear general group, and its
-  >  connection to FI-modules.
+> Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
+> Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
+> the symmetric and the linear general group, and its
+>  connection to FI-modules.
 
 - Luis Calvo Sánchez
-  > Luis wrote his senior and his master thesis on a higher dimensional version of the
-  >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
-  > Luis is currently writing up the results of his investigation.
+> Luis wrote his senior and his master thesis on a higher dimensional version of the
+>  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
+> Luis is currently writing up the results of his investigation.
 
 
 
@@ -140,17 +140,17 @@ permalink: /CAenSevilla
 <H2> Conferences and Workshops:</H2>
 
 - [Algebraic Combinatorics in Sevilla](https://personal.us.es/mrosas/combinatoria_algebraica_en_Sevilla/)
-   > Virtual Seminaire
+ > Virtual Seminaire
 
 - [91 Séminaire Lotharingien de Combinatoire](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91)
-   > Salobreña, March 17 - 20, 2024.\
-   > Invited Speakers: Petter Brändén and Ira Gessel.
+> Salobreña, March 17 - 20, 2024.\
+> Invited Speakers: Petter Brändén and Ira Gessel.
   
 - [School and Workshop "Mathematical fundations of quantum information"](https://congreso.us.es/enredo2009/Welcome.html)
-   >Sevilla, Spain, 23-27 november 2009. 
+>Sevilla, Spain, 23-27 november 2009. 
 
 - [Diagonally symmetric polynomials and applications](https://congreso.us.es/dsym/)
-   >Castro-Urdiales, October 15 - 19, 2007
+>Castro-Urdiales, October 15 - 19, 2007
 
 
  <H2> Funding:</H2>
