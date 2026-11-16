@@ -44,6 +44,7 @@ permalink: /CAenSevilla
 > Universidad de Sevilla, Departamento de Álgebra.
 
 -  [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/).
+> Adrian is a PhD student at the University of Sevilla.<br>
 > Building on our decomposition of a Cayley tree via records,
 > closely related to the blob encoding of Kreweras, Moszkowski,
 > and Picciotto, we define parking functions anew and construct
@@ -54,12 +55,14 @@ permalink: /CAenSevilla
 
 
 -  [Aaron Ocampo](https://www.linkedin.com/in/aar%C3%B3n-ocampo-amaya-b227ba310/?originalSubdomain=es)
+> Aaron is a PhD student at the University of Sevilla.<br>
 > Aaron is working towards his doctorate degree with a FPU fellowship. At the moment,
 > Aaron is studying the hook stability phenomena present for the much-studied Kronecker coefficients of
 > the symmetric and the linear general group, and its
 >  connection to FI-modules.
 
 - Luis Calvo Sánchez
+> Luis is a PhD student at the University of Sevilla.<br>
 > Luis wrote his senior and his master thesis on a higher dimensional version of the
 >  Combinatorial Laplacian defined in the framework of algebraic topology. Luis's work is based on results of Kalai, Bernardi and Klivans.
 > Luis is currently writing up the results of his investigation.
