@@ -129,7 +129,7 @@ permalink: /CAenSevilla
 >  Sevilla, Álvaro authored a Master's thesis at the
 > University of Bonn under the supervision of Catharina
 > Stroppel and Jacob Matherne.  \
->, Álvaro is currently finishing  his Ph.D. under the guidance of Mark Wildon at
+> Álvaro is finishing  his Ph.D. under the guidance of Mark Wildon at
 > Bristol University.
 
 - [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/).
