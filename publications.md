@@ -37,15 +37,12 @@ My publications and preprints.
     > Work presented at
     > [GasCOM 2026](https://gascom2026.dista.uninsubria.it), Italia. 
     
-  
-
 
 1. On the enumeration of records of rooted trees and rooted forests, (2025)
     > with Adrián Lillo and Stefan Trandafir.\
-    > Discrete Mathematics, 350, 115517,  2027\
+    > Discrete Math. 350 (2027), no. 3, Paper No. 115517.\
     > [Arxiv](https://arxiv.org/abs/2510.12536)
  
-
 
 
 1. On Weary Drivers, Records of Trees, and Parking Functions, (2025)
