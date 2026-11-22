@@ -115,7 +115,7 @@ permalink: /CAenSevilla
 >  Luis is working towards his PhD in Sevilla, this time focusing in number theory, and under the direction of Antonio Rojas and Alberto Castaño.
 
 - Pablo Puerto
-> Pablo wrote his senior thesis (Récords en árboles y endofunciones)[https://idus.us.es/server/api/core/bitstreams/5792c296-7cb6-4b47-8c16-9e7bb8fd7300/content] \
+> Pablo wrote his senior thesis [Récords en árboles y endofunciones](https://idus.us.es/server/api/core/bitstreams/5792c296-7cb6-4b47-8c16-9e7bb8fd7300/content) \
 > Pablo is a Master student Leiden as part of [ALGANT](https://algant.eu/)
 
 - [Alonso Díaz Uña](https://www.linkedin.com/in/alonso-d%C3%ADaz-u%C3%B1a-b90889319/)
