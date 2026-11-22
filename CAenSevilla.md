@@ -118,8 +118,8 @@ permalink: /CAenSevilla
 
 - [Alonso Díaz Uña](https://www.linkedin.com/in/alonso-d%C3%ADaz-u%C3%B1a-b90889319/)
 > Alonso's  senior tesis [Approaching non-commutative harmonic analysis and Lie groups through the spherical harmonics](https://idus.us.es/items/31cb7dc1-ad4d-4fe3-b0b5-1b28a01e91ea)
-> use spherical harmonics to illustrate the role of representation theory in non-commutative harmonic analysis. \
-> Alonso is pursuing a MASt in Mathematics (Theoretical Physics) at Cambridge with a La Caixa's scholarship. 
+> with us. \
+> Alonso is currently pursuing a MASt in Mathematics (Theoretical Physics) at Cambridge with a La Caixa's scholarship. 
 
 
 
