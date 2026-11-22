@@ -94,7 +94,7 @@ permalink: /CAenSevilla
   
 - [Stefan Trandafir](https://sites.google.com/view/stefan-trandafir)
 > Stefan was a frecuent visitor to the group during
->  his PhD at Simon Fraser University in Vacouve. Later, he came back to Sevilla for 
+>  his PhD at Simon Fraser University in Vacouver, and came back to Sevilla for 
 > postdoctoral position with the quantum information group of
 >  Adan Cabello (Sevilla).
   
