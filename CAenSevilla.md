@@ -84,8 +84,6 @@ permalink: /CAenSevilla
 > and of only one chamber (with the formula for the LR on this chamber) completely describe these LR coefficients.
 
 
-
-
 <H2> Antiguos Estudiantes y visitantes:</H2>
 
 - [Laura Colmenarejo](https://sites.google.com/view/l-colmenarejo/home)
@@ -108,7 +106,7 @@ permalink: /CAenSevilla
 > Bristol University.
 
 - [Luis Esquivias](https://www.linkedin.com/in/luis-esquivias-quintero-60214a264/).
-> Luis's and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) senior's thesis were the result
+> Luis's and [Adrian Lillo](https://www.linkedin.com/in/adri%C3%A1n-lillo-pinto-1b1359180/) senior's theses were the result
 > of a collaboration with [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/), and the senior members of the group.\
 > This work will appear at Forum Math Sigma.\
 >  Luis is working towards his PhD in Sevilla under the direction of Antonio Rojas and Alberto Castaño.
