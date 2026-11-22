@@ -101,7 +101,9 @@ permalink: /CAenSevilla
 >  Adan Cabello (Sevilla).
   
 - [Álvaro Gutiérrez Cáceres](https://sites.google.com/view/gutierrez-caceres/)
-> Álvaro wrote his senior thesis with us, and is also a collaborator.\
+> Álvaro wrote his senior thesis on the plethysm of symmetric function, 
+> [Partial symmetries](https://link.springer.com/article/10.1007/s00026-023-00652-4) and
+> [Positivity conditions](https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.468/).\
 > Álvaro is finishing  his Ph.D. under the guidance of Mark Wildon at
 > Bristol University.
 
